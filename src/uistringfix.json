@@ -80,8 +80,20 @@
             "value": "These are special points that can be acquired through daily missions or the Dragon Vault.\n\n#b[Usage]\n#yMarketplace -> Sherny (Crystal Shop)"
         },
         {
+            "#comment": "Old 1st Guild Seal Gift",
+            "mid": "1000125606",
+            "#match": "(구) 첫번째 봉인해제 선물",
+            "value": "(Old) First Seal Gift"
+        },
+        {
+            "#comment": "Old 2nd Guild Seal Gift",
+            "mid": "1000125607",
+            "#match": "(구) 두번째 봉인해제 선물",
+            "value": "(Old) Second Seal Gift"
+        },
+        {
             "#comment": "Old 3rd Guild Seal Gift",
-            "mid": "1000120516",
+            "mid": "1000125608",
             "#match": "(구) 세번째 봉인해제 선물",
             "value": "(Old) Third Seal Gift"
         },
