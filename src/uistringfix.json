@@ -78,6 +78,24 @@
             "mid": "1000120516",
             "#match": "일일 미션 클리어 하거나 캐쉬 상점에서 구매를 통해 획득할 수 있는 특별한 포인트 입니다.\n\n#b[사용처]\n#y세인트 헤이븐 분수대 -> 상인 파니아(크리스탈 상점)",
             "value": "These are special points that can be acquired through daily missions or the Dragon Vault.\n\n#b[Usage]\n#yMarketplace -> Sherny (Crystal Shop)"
+        },
+        {
+            "#comment": "Old 3rd Guild Seal Gift",
+            "mid": "1000120516",
+            "#match": "(구) 세번째 봉인해제 선물",
+            "value": "(Old) Third Seal Gift"
+        },
+        {
+            "#comment": "Old 4th Guild Seal Gift",
+            "mid": "1000125609",
+            "#match": "(구) 네번째 봉인해제 선물",
+            "value": "(Old) Fourth Seal Gift"
+        },
+        {
+            "#comment": "Old 5th Guild Seal Gift",
+            "mid": "1000125610",
+            "#match": "(구) 다섯번째 봉인해제 선물",
+            "value": "(Old) Fifth Seal Gift"
         }
     ]
 }
