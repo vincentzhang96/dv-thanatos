@@ -144,6 +144,30 @@
             "mid": "1000122040",
             "#match": "#s[아이템 변환기]\n#w95레벨 레전드 등급의 #r[+20 1티어 칼립스]#w 장비를 95레벨 레전드 #r[+0 2티어 칼립스]#w 장비로 변환할 수 있습니다.\n\n동일한 부위로만 변경할 수 있습니다.",
             "value": "#s[Item Converter]\n#wConverts Lv95 Legend #r[+20 Tier 1 Calypso]#w equipment into Lv95 Legend #r[+0 Tier 2 Calypso]#w equipment. Can only be converted into the same item type."
+        },
+        {
+            "#comment": "Dungeon Point Shop pouch name",
+            "mid": "1000125993",
+            "#match": "재료 주머니(용옥)",
+            "value": "Material Pouch (Dragon Gem)"
+        },
+        {
+            "#comment": "Dungeon Point Shop pouch desc",
+            "mid": "1000125996",
+            "#match": "#s[{0}]\n#w용옥 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 용옥의 심장 또는 파편을 얻을 수 있다. ",
+            "value": "#s[{0}]\n#wA pouch that contains materials for crafting Dragon Gems. You can obtain Crude Luminous Dragon Gem Cores or Fragments."
+        },
+        {
+            "#comment": "Dungeon Point Shop pouch name",
+            "mid": "1000125994",
+            "#match": "재료 주머니(탈리스만)",
+            "value": "Material Pouch (Talisman)"
+        },
+        {
+            "#comment": "Dungeon Point Shop pouch desc",
+            "mid": "1000126009",
+            "#match": "#s[{0}]\n#w탈리스만 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 탈리스만의 정수 또는 조각을 얻을 수 있다. ",
+            "value": "#s[{0}]\n#wA pouch that contains materials for crafting Talismans. You can obtain Crude Luminous Talisman Essences or Fragments."
         }
     ]
 }
