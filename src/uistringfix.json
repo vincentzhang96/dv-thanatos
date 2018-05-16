@@ -132,6 +132,12 @@
             "mid": "1000125610",
             "#match": "(구) 다섯번째 봉인해제 선물",
             "value": "(Old) Fifth Seal Gift"
+        },
+        {
+            "#comment": "Obtain location - Slayer Mode",
+            "mid": "1000125136",
+            "#match": "",
+            "value": "Slayer Mode"
         }
     ]
 }
