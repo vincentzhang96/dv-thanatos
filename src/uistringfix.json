@@ -3,6 +3,12 @@
     },
     "edit": [
         {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "#match": "",
+            "value": ""
+        },
+        {
             "#comment": "Special Server Storage",
             "mid": "1000122967",
             "#match": "특별(서버)",
@@ -78,6 +84,24 @@
             "mid": "1000120516",
             "#match": "일일 미션 클리어 하거나 캐쉬 상점에서 구매를 통해 획득할 수 있는 특별한 포인트 입니다.\n\n#b[사용처]\n#y세인트 헤이븐 분수대 -> 상인 파니아(크리스탈 상점)",
             "value": "These are special points that can be acquired through daily missions or the Dragon Vault.\n\n#b[Usage]\n#yMarketplace -> Sherny (Crystal Shop)"
+        },
+        {
+            "#comment": "Dungeon Point Tooltip",
+            "mid": "1000121647",
+            "#match": "일일퀘스트에서 주로 획득할 수 있으며 기타 컨텐츠들을 이용 시 획득할 수 있는 포인트\n\n#b[사용처]\n#y어둠의 여신관 (스테이지 포인트 상점)",
+            "value": "Points that can be acquired mainly from daily quests or when completing certain content\n\n#b[Usage]\n#yPriestess of Darkness (Stage Point Store)"
+        },
+        {
+            "#comment": "Nest Point Tooltip",
+            "mid": "1000121646",
+            "#match": "네스트를 클리어 시 획득할 수 있는 포인트\n\n#b[사용처]\n#y어둠의 여신관 (네스트 포인트 상점)",
+            "value": "Points you can earn when clearing nests\n\n#b[Usage]\n#yPriestess of Darkness (Nest Point Store)"
+        },
+        {
+            "#comment": "Wonderful Point Tooltip",
+            "mid": "1000121649",
+            "#match": "원더풀 테마파크의 컨텐츠를 진행 시 획득할 수 있는 포인트\n\n#b[사용처]\n#y마술사 샌더스(원더풀 포인트 상점)",
+            "value": "Points that you can acquire when you complete Daredevil Faire content\n\n#b[Usage]\n#yMagician Sanders (Wonderful Point Store)"
         },
         {
             "#comment": "Old 1st Guild Seal Gift",
