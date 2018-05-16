@@ -1,0 +1,13 @@
+{
+    "#comment": "Storage/Inventory UI",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Special Server Storage",
+            "mid": "1000122967",
+            "#match": "특별(서버)",
+            "value": "Special (S)"
+        }
+    ]
+}

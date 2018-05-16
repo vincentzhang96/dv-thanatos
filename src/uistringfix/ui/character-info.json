@@ -1,0 +1,13 @@
+{
+    "#comment": "Character Info UI",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Likes Dropdown",
+            "mid": "1000121921",
+            "#match": "좋아요정보",
+            "value": "Likes"
+        }
+    ]
+}

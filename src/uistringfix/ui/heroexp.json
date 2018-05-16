@@ -1,0 +1,18 @@
+{
+    "#comment": "Hero EXP bar tooltip",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Hero EXP Tooltip",
+            "mid": "1000124649",
+            "#match": "영웅 경험치:  %I64d /  %d",
+            "value": "Hero EXP: %I64d /  %d"
+        },
+        {
+            "#comment": "Hero EXP Limit Tooltip",
+            "mid": "1000124655",
+            "value": "Weekly Hero EXP: %I64d /  %d"
+        }
+    ]
+}

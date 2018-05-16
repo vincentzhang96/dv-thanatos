@@ -1,0 +1,55 @@
+{
+    "#comment": "Yum-O-Tron food drops",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Yum-o-tron drop - Milk",
+            "mid": "1000119358",
+            "#match": "비매품 시원한 우유 (공격력 +15%)",
+            "value": "Jug of Milk (15% DMG)"
+        },
+        {
+            "#comment": "Yum-o-tron drop - Cheese",
+            "mid": "1000119359",
+            "#match": "비매품 고소한 치즈 조각 (공격력 +30%)",
+            "value": "Slice of Cheese (30% DMG)"
+        },
+        {
+            "#comment": "Yum-o-tron drop - Lizard",
+            "mid": "1000119360",
+            "#match": "비매품 하바네로 고추 (이동속도 +50%)",
+            "value": "Crunchy Lizard Kebab (10% Critical)"
+        },
+        {
+            "#comment": "Yum-o-tron drop - Pepper",
+            "mid": "1000119361",
+            "#match": "비매품 하바네로 고추 (이동속도 +50%)",
+            "value": "Habanero Pepper (50% Movement Speed)"
+        },
+        {
+            "#comment": "Yum-o-tron drop - Blue Pot",
+            "mid": "1000119362",
+            "#match": "비매품 하바네로 고추 (이동속도 +50%)",
+            "value": "Final Pot (15% FD)"
+        },
+        {
+            "#comment": "Yum-o-tron drop - Purple Pot",
+            "mid": "1000119363",
+            "#match": "비매품 전광석화의 비약 (액션속도 +20%)",
+            "value": "Flash Elixir (20% AS)"
+        },
+        {
+            "#comment": "Yum-o-tron drop - Mushroom",
+            "mid": "1000119364",
+            "#match": "비매품 죽다 살아나는 버섯 (쿨타임 초기화)",
+            "value": "Reset Mushroom (CD Reset)"
+        },
+        {
+            "#comment": "Yum-o-tron drop - Bird Nest",
+            "mid": "1000119365",
+            "#match": "비매품 불도장 (쿨타임 감소 15%)",
+            "value": "Fireworks (15% CDR)"
+        }
+    ]
+}

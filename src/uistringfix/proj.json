@@ -1,0 +1,23 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "#match": "",
+            "value": ""
+        }
+    ],
+    "include": [
+        "items/guild-seal-gift.json",
+        "items/material-pouch.json",
+        "items/obtain-location.json",
+        "items/tuner-evo-hammer.json",
+        "items/yumotron-food.json",
+        "ui/character-info.json",
+        "ui/heroexp.json",
+        "ui/points.json",
+        "ui/storage-inventory.json"
+    ]
+}

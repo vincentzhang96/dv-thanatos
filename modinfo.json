@@ -12,7 +12,7 @@
     ],
     "add": [
       {
-        "source": "src/uistringfix.json",
+        "source": "src/uistringfix/proj.json",
         "dest": "/resource/uistring/uistring.xml",
         "processor": "uistring"
       }

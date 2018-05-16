@@ -1,0 +1,37 @@
+{
+    "#comment": "Guild Seal Gift Pouches",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Old 1st Guild Seal Gift",
+            "mid": "1000125606",
+            "#match": "(구) 첫번째 봉인해제 선물",
+            "value": "(Old) First Seal Gift"
+        },
+        {
+            "#comment": "Old 2nd Guild Seal Gift",
+            "mid": "1000125607",
+            "#match": "(구) 두번째 봉인해제 선물",
+            "value": "(Old) Second Seal Gift"
+        },
+        {
+            "#comment": "Old 3rd Guild Seal Gift",
+            "mid": "1000125608",
+            "#match": "(구) 세번째 봉인해제 선물",
+            "value": "(Old) Third Seal Gift"
+        },
+        {
+            "#comment": "Old 4th Guild Seal Gift",
+            "mid": "1000125609",
+            "#match": "(구) 네번째 봉인해제 선물",
+            "value": "(Old) Fourth Seal Gift"
+        },
+        {
+            "#comment": "Old 5th Guild Seal Gift",
+            "mid": "1000125610",
+            "#match": "(구) 다섯번째 봉인해제 선물",
+            "value": "(Old) Fifth Seal Gift"
+        }
+    ]
+}
