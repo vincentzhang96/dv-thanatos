@@ -5,79 +5,78 @@
         {
             "#comment": "Special Server Storage",
             "mid": "1000122967",
-            "match": "특별(서버)",
+            "#match": "특별(서버)",
             "value": "Special (S)"
         },
         {
             "#comment": "Yum-o-tron drop - Milk",
             "mid": "1000119358",
-            "match": "비매품 시원한 우유 (공격력 +15%)",
+            "#match": "비매품 시원한 우유 (공격력 +15%)",
             "value": "Jug of Milk (15% DMG)"
         },
         {
             "#comment": "Yum-o-tron drop - Cheese",
             "mid": "1000119359",
-            "match": "비매품 고소한 치즈 조각 (공격력 +30%)",
+            "#match": "비매품 고소한 치즈 조각 (공격력 +30%)",
             "value": "Slice of Cheese (30% DMG)"
         },
         {
             "#comment": "Yum-o-tron drop - Lizard",
             "mid": "1000119360",
-            "match": "비매품 하바네로 고추 (이동속도 +50%)",
+            "#match": "비매품 하바네로 고추 (이동속도 +50%)",
             "value": "Habanero Pepper (50% Movement Speed)"
         },
         {
             "#comment": "Yum-o-tron drop - Pepper",
             "mid": "1000119361",
-            "match": "비매품 하바네로 고추 (이동속도 +50%)",
+            "#match": "비매품 하바네로 고추 (이동속도 +50%)",
             "value": "Habanero Pepper (50% Movement Speed)"
         },
         {
             "#comment": "Yum-o-tron drop - Blue Pot",
             "mid": "1000119362",
-            "match": "비매품 하바네로 고추 (이동속도 +50%)",
+            "#match": "비매품 하바네로 고추 (이동속도 +50%)",
             "value": "Final Pot (15% FD)"
         },
         {
             "#comment": "Yum-o-tron drop - Purple Pot",
             "mid": "1000119363",
-            "match": "비매품 전광석화의 비약 (액션속도 +20%)",
+            "#match": "비매품 전광석화의 비약 (액션속도 +20%)",
             "value": "Flash Elixir (20% AS)"
         },
         {
             "#comment": "Yum-o-tron drop - Mushroom",
             "mid": "1000119364",
-            "match": "비매품 죽다 살아나는 버섯 (쿨타임 초기화)",
+            "#match": "비매품 죽다 살아나는 버섯 (쿨타임 초기화)",
             "value": "Reset Mushroom (CD Reset)"
         },
         {
             "#comment": "Yum-o-tron drop - Bird Nest",
             "mid": "1000119365",
-            "match": "비매품 불도장 (쿨타임 감소 15%)",
+            "#match": "비매품 불도장 (쿨타임 감소 15%)",
             "value": "Fireworks (15% CDR)"
         },
         {
             "#comment": "Likes Dropdown",
             "mid": "1000121921",
-            "match": "좋아요정보",
+            "#match": "좋아요정보",
             "value": "Likes"
         },
         {
             "#comment": "Hero EXP Tooltip",
             "mid": "1000124649",
-            "match": "영웅 경험치:  %I64d /  %d",
+            "#match": "영웅 경험치:  %I64d /  %d",
             "value": "Hero EXP: %I64d /  %d"
         },
         {
             "#comment": "Hero EXP Limit Tooltip",
             "mid": "1000124655",
-            "match": "주간 영웅 경험치 획득 제한량:  %I64d /  %d",
             "value": "Weekly Hero EXP: %I64d /  %d"
         },
         {
             "#comment": "Crystal Point Tooltip",
             "mid": "1000120516",
-            "match": "일일 미션 클리어 하거나 캐쉬 상점에서 구매를 통해 획득할 수 있는 특별한 포인트 입니다.\n\n#b[사용처]\n#y세인트 헤이븐 분수대 -> 상인 파니아(크리스탈 상점)",
+            "#match": "일일 미션 클리어 하거나 캐쉬 상점에서 구매를 통해 획득할 수 있는 특별한 포인트 입니다.\n\n#b[사용처]\n#y세인트 헤이븐 분수대 -> 상인 파니아(크리스탈 상점)",
             "value": "These are special points that can be acquired through daily missions or the Dragon Vault.\n\n#b[Usage]\n#yMarketplace -> Sherny (Crystal Shop)"
         }
     ]
