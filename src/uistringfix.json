@@ -61,6 +61,18 @@
             "mid": "1000121921",
             "match": "좋아요정보",
             "value": "Likes"
+        },
+        {
+            "#comment": "Hero EXP Tooltip",
+            "mid": "1000124649",
+            "match": "영웅 경험치:  %I64d /  %d",
+            "value": "Hero EXP: %I64d /  %d"
+        },
+        {
+            "#comment": "Hero EXP Limit Tooltip",
+            "mid": "1000124655",
+            "match": "주간 영웅 경험치 획득 제한량:  %I64d /  %d",
+            "value": "Weekly Hero EXP: %I64d /  %d"
         }
     ]
 }
