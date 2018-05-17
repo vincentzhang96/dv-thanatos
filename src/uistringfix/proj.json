@@ -9,6 +9,7 @@
             "value": ""
         }
     ],
+    "includePrefix": "src/uistringfix/",
     "include": [
         "items/guild-seal-gift.json",
         "items/material-pouch.json",
