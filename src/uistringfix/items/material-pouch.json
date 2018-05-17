@@ -6,25 +6,25 @@
         {
             "#comment": "Dragon Gem Material Pouch Name",
             "mid": "1000125993",
-            "#match": "재료 주머니(용옥)",
+            "match": "재료 주머니(용옥)",
             "value": "Material Pouch (Dragon Gem)"
         },
         {
             "#comment": "Dragon Gem Material Pouch Desc",
             "mid": "1000125996",
-            "#match": "#s[{0}]\n#w용옥 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 용옥의 심장 또는 파편을 얻을 수 있다. ",
+            "match": "#s[{0}]\n#w용옥 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 용옥의 심장 또는 파편을 얻을 수 있다. ",
             "value": "#s[{0}]\n#wA pouch that contains materials for crafting Dragon Gems. You can obtain Crude Luminous Dragon Gem Cores or Fragments."
         },
         {
             "#comment": "Talisman Material Pouch Name",
             "mid": "1000125994",
-            "#match": "재료 주머니(탈리스만)",
+            "match": "재료 주머니(탈리스만)",
             "value": "Material Pouch (Talisman)"
         },
         {
             "#comment": "Talisman Material Pouch Desc",
             "mid": "1000126009",
-            "#match": "#s[{0}]\n#w탈리스만 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 탈리스만의 정수 또는 조각을 얻을 수 있다. ",
+            "match": "#s[{0}]\n#w탈리스만 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 탈리스만의 정수 또는 조각을 얻을 수 있다. ",
             "value": "#s[{0}]\n#wA pouch that contains materials for crafting Talismans. You can obtain Crude Luminous Talisman Essences or Fragments."
         }
     ]
