@@ -7,7 +7,7 @@
   "timestamp": "1526443257",
   "customPrefix": "00Resource_a",
   "build": {
-    "kitVersion": "0.1.11",
+    "kitVersion": "0.1.12",
     "copy": [
     ],
     "add": [
