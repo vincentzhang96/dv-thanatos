@@ -4,7 +4,7 @@
     },
     "edit": [
         {
-            "#comment": "Likes Dropdown",
+            "#comment": "Blessed Buff",
             "mid": "1000127385",
             "match": "\\n#w힘 +100\\n민첩 +100\\n지혜 +100\\n건강 +100\\n물리공격력 +10%\\n마법공격력 +10%\\n\\n#s해당 능력은 스테이지및 네스트에서 활성화됩니다.",
             "value": "\\n#wSTR +100\\nAGI +100\\nINT +100\\nVIT +100\\nPhysical Damage +10%\\nMagic Damage +10%\\n\\n#sActive in dungeons, nests, and raids."
