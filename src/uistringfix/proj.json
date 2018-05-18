@@ -5,7 +5,7 @@
         {
             "#comment": "Template",
             "mid": "1000000000",
-            "#match": "",
+            "match": "",
             "value": ""
         }
     ],
@@ -16,9 +16,11 @@
         "items/obtain-location.json",
         "items/tuner-evo-hammer.json",
         "items/yumotron-food.json",
+        "ui/buffs.json",
         "ui/character-info.json",
         "ui/heroexp.json",
         "ui/points.json",
+        "ui/settings.json",
         "ui/storage-inventory.json"
     ]
 }
