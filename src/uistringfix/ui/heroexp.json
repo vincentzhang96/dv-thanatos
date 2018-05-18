@@ -3,6 +3,8 @@
     "add": {
     },
     "edit": [
+    ],
+    "#old": [
         {
             "#comment": "Hero EXP Tooltip",
             "mid": "1000124649",
@@ -12,7 +14,7 @@
         {
             "#comment": "Hero EXP Limit Tooltip",
             "mid": "1000124655",
-            "match": "12",
+            "match": "",
             "value": "Weekly Hero EXP: %I64d /  %d"
         }
     ]
