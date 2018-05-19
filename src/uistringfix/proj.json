@@ -11,6 +11,7 @@
     ],
     "includePrefix": "src/uistringfix/",
     "include": [
+        "classes/proj.json",
         "items/guild-seal-gift.json",
         "items/material-pouch.json",
         "items/obtain-location.json",

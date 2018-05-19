@@ -1,0 +1,10 @@
+{
+    "add": {
+    },
+    "edit": [
+    ],
+    "includePrefix": "src/uistringfix/classes/",
+    "include": [
+        "sorceress/pyro.json"
+    ]
+}
