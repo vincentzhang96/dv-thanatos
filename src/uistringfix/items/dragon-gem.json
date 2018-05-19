@@ -1,0 +1,13 @@
+{
+    "#comment": "Shorten Lv95 dragon gem names",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Enhanced Dragon Gem",
+            "mid": "1000056921",
+            "match": "Enhanced Dragon Gem",
+            "value": "Dragon Gem"
+        }
+    ]
+}
