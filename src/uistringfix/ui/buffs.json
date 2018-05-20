@@ -44,6 +44,12 @@
             "mid": "1000116330",
             "match": "\\n#w스킬 쿨타임 {0}% 감소\\n",
             "value": "\\n#wReduce skill CD by {0}%\\n"
+        },
+        {
+            "#comment": "Instant items (e.g. Shard)",
+            "mid": "100084",
+            "match": "The \"%s\" possessed by \"%s\" triggered \"%s\". ",
+            "value": "%s's %s has bestowed %s!"
         }
     ],
     "#old": [
