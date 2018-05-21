@@ -1,0 +1,25 @@
+{
+    "#comment": "Priest Skills",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Blessing of Strikes Desc",
+            "mid": "1000125161",
+            "match": "자신의 #y빛 속성 공격력#w과 #y마법 공격력#w을 증가시킨다. \\n#y빛 속성 공격력 {0}% 증가\\n마법 공격력 {1}% 증가\\n지속시간 {2}초",
+            "value": "Increase your #[Light Attack]#w and #y[Magic Damage]#w.\\n#yLight Attack +{0}%\\nMagic Damage +{1}%\\nDuration {2} sec"
+        },
+        {
+            "#comment": "Immortality name",
+            "mid": "1000125892",
+            "match": "임모탈리티",
+            "value": "Immortality"
+        },
+        {
+            "#comment": "Immortality desc",
+            "mid": "1000125893",
+            "match": "아군에게 강력한 축복을 부여하여 일정시간 죽음을 극복할 수 있게 한다.\\n\\n#y효과 적용 후 {0}초 내에 HP가 {1} 이하로 내려갈 경우 [불사] 상태로 효과 갱신\\n[불사] 상태에서는 HP가 {2} 이하로 소모되지 않음\\n[불사] 지속시간 5초",
+            "value": "Bless nearby allies, protecting them from death for a short duration.\\n\\n#yGrants [Immortal] status if HP falls below {1} within {0} sec of being blessed.\\nHP cannot drop below {2} while [Immortal]\\n[Immortal] lasts 5 seconds"
+        }
+    ]
+}
