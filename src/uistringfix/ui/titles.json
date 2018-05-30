@@ -1,0 +1,27 @@
+{
+    "#comment": "Titles and Feats",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Slayer Conquerer feat desc",
+            "mid": "1000117553",
+            "match": "이제는 뭐.. 일상이랄까?",
+            "value": "Now what.. Everyday?"
+        },
+        {
+            "#comment": "Master of Slayer title",
+            "mid": "1000117574",
+            "match": "이삭줍기 달인",
+            "value": "Gleaming Master"
+        },
+        {
+            "#comment": "Master of Slayer feat desc",
+            "mid": "1000119369",
+            "match": "대단한 정신력으로 1000번의 포인트 아이템을 이삭줍기 하였다.",
+            "value": "Collected 1,000 Slayer Points with gusto."
+        }
+    ],
+    "#old": [
+    ]
+}

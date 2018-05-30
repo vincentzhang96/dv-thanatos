@@ -23,6 +23,7 @@
         "ui/heroexp.json",
         "ui/points.json",
         "ui/settings.json",
-        "ui/storage-inventory.json"
+        "ui/storage-inventory.json",
+        "ui/titles.json"
     ]
 }
