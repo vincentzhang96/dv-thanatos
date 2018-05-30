@@ -6,7 +6,9 @@
     "includePrefix": "src/uistringfix/classes/",
     "include": [
         "cleric/guardian.json",
+        "cleric/inquisitor.json",
         "cleric/priest.json",
+        "cleric/saint.json",
         "sorceress/pyro.json"
     ]
 }

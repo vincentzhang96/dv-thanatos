@@ -1,0 +1,13 @@
+{
+    "#comment": "Saint Skills",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Awk Pass Grand Cross Desc",
+            "mid": "1000125161",
+            "match": "빛의 검기가 사라질 때 마지막 신성폭발로 추가피해를 입힌다.\\n#y추가 데미지 {0}%#w\\n\\n#y[그랜드 크로스]#w 히트 시 #y[안티포나 풀]#w이 강화된다. 강화된 상태에서 #y[안티포나 풀]#w 사용 후 #y[일반 공격 버튼]#w 입력으로 특이점을 최대 {1}개까지 연속으로 소환할 수 있다. 단, 추가조작으로 사용한 #y[안티포나 풀]#w은 특이점에 근접한 대상에게 주는 추가 데미지가 적용되지 않는다.\\n#y안티포나 풀과 강화 안티포나 풀 재사용 대기시간 공유하지 않음\\n강화 유지시간 {2}초",
+            "value": "Deal additional damage with a final explosion of holy power when the Cross of Light fades.\\n#y{0}% damage\\n\\n#y[Antiphona Pool]#w is enhanced when #y[Grand Cross]#w hits enemies. Press the #y[Normal Attack Button]#w after using #y[Enhanced Antiphona Pool]#w to summon up to {1} Holy Dots. However, additional damage will not be applied to nearby enemies when the #y[Normal Attack Button]#w is used.\\n#y[Antiphony Pool] does not share cooldown with [Enhanced Antiphony Pool]\\nEffect lasts for {2}s"
+        }
+    ]
+}

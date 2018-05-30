@@ -1,0 +1,13 @@
+{
+    "#comment": "Saint Skills",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Lightning Storm Desc",
+            "mid": "1000125588",
+            "match": "#y빛 속성#w\\n하늘 높이 번개를 쏘아올려 강한 번개구름을 소환한다. 번개구름이 완성되면 주기적으로 낙뢰를 생성하여 대상에게 큰 피해와 #y[감전]#w 을 노출시킨다.\\n#y히트 당 공격력 {0}%\\n최대 {1}% 확률로 감전 적용\\n지속시간 {2}초",
+            "value": "#yLight Attack\\n#wShoot lightning into the heavens to summon a powerful lightning storm. The storm continuously creates lightning, dealing damage and #y[Electrocutes]#w enemies.\\n#yDamage per hit {0}%\\n{1}% chance to Electrocute\\nDuration {2}s"
+        }
+    ]
+}
