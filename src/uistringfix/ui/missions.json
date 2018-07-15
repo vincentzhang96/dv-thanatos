@@ -1,0 +1,13 @@
+{
+    "#comment": "Missions",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Daily mission",
+            "mid": "1000127390",
+            "match": "",
+            "value": "Clear {0} (any difficulty) {1} times"
+        }
+    ]
+}
