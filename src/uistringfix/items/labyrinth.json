@@ -7,25 +7,25 @@
             "#comment": "Divided Volcano Crystal desc",
             "mid": "1000127841",
             "match": "탁한 라비린스의 기운과 끝이 없는 탐욕으로 빚어진 결정\\n결정 속에서 흐느끼는 안개가 조용히 휘몰아치고 있다.\\n\\n#s[획득안내]\\n#p볼케이노 네스트#y 1층 이상#w에서 획득할 수 있으며 단수가 높아질수록 획득량이 증가합니다.\\n\\n#s[사용처]\\n#w[대장장이 - 제작]을 통해서 #y정화된 라비린스의 성물#w을 제작할 수 있습니다.",
-            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pVolcano Nest floor 1 and up\\n\\n#s[Usage]\\n@w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
+            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pVolcano Nest floor 1 and up\\n\\n#s[Use]\\n#w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
         },
         {
             "#comment": "Divided Guardian Crystal desc",
             "mid": "1000127842",
             "match": "탁한 라비린스의 기운과 끝이 없는 탐욕으로 빚어진 결정\\n결정 속에서 흐느끼는 안개가 조용히 휘몰아치고 있다.\\n\\n#s[획득안내]\\n#p가디언 네스트#y 1층 이상#w에서 획득할 수 있으며 단수가 높아질수록 획득량이 증가합니다.\\n\\n#s[사용처]\\n#w[대장장이 - 제작]을 통해서 #y정화된 라비린스의 성물#w을 제작할 수 있습니다.",
-            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pGuardian Nest floor 1 and up\\n\\n#s[Usage]\\n@w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
+            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pGuardian Nest floor 1 and up\\n\\n#s[Use]\\n#w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
         },
         {
             "#comment": "Divided Mist Crystal desc",
             "mid": "1000127843",
-            "match": "탁한 라비린스의 기운과 끝이 없는 탐욕으로 빚어진 결정\\n결정 속에서 흐느끼는 안개가 조용히 휘몰아치고 있다.\\n\\n#s[획득안내]\\n#p가디언 네스트#y 1층 이상#w에서 획득할 수 있으며 단수가 높아질수록 획득량이 증가합니다.\\n\\n#s[사용처]\\n#w[대장장이 - 제작]을 통해서 #y정화된 라비린스의 성물#w을 제작할 수 있습니다.",
-            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pMist Nest floor 1 and up\\n\\n#s[Usage]\\n@w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
+            "match": "탁한 라비린스의 기운과 끝이 없는 탐욕으로 빚어진 결정\\n결정 속에서 흐느끼는 안개가 조용히 휘몰아치고 있다.\\n\\n#s[획득안내]\\n#p미스트 네스트#y 1층 이상#w에서 획득할 수 있으며 단수가 높아질수록 획득량이 증가합니다.\\n\\n#s[사용처]\\n#w[대장장이 - 제작]을 통해서 #y정화된 라비린스의 성물#w을 제작할 수 있습니다.",
+            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pMist Nest floor 1 and up\\n\\n#s[Use]\\n#w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
         },
         {
             "#comment": "Divided Outlaw Crystal desc",
             "mid": "1000127844",
-            "match": "탁한 라비린스의 기운과 끝이 없는 탐욕으로 빚어진 결정\\n결정 속에서 흐느끼는 안개가 조용히 휘몰아치고 있다.\\n\\n#s[획득안내]\\n#p가디언 네스트#y 1층 이상#w에서 획득할 수 있으며 단수가 높아질수록 획득량이 증가합니다.\\n\\n#s[사용처]\\n#w[대장장이 - 제작]을 통해서 #y정화된 라비린스의 성물#w을 제작할 수 있습니다.",
-            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pKaeron Nest floor 1 and up\\n\\n#s[Usage]\\n@w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
+            "match": "탁한 라비린스의 기운과 끝이 없는 탐욕으로 빚어진 결정\\n결정 속에서 흐느끼는 안개가 조용히 휘몰아치고 있다.\\n\\n#s[획득안내]\\n#p카이론 네스트#y 1층 이상#w에서 획득할 수 있으며 단수가 높아질수록 획득량이 증가합니다.\\n\\n#s[사용처]\\n#w[대장장이 - 제작]을 통해서 #y정화된 라비린스의 성물#w을 제작할 수 있습니다.",
+            "value": "A crystal made from the energy from labyrinth's lust and greed. The fog within the crystal quietly stirs.\\n\\n#s[Found At]\\n#pKaeron Nest floor 1 and up\\n\\n#s[Use]\\n#w[Blacksmith - Crafting] Can be used to craft #y[Halidom of Labyrinth]"
         }
     ]
 }
