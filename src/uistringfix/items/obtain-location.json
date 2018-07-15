@@ -4,12 +4,6 @@
     },
     "edit": [
         {
-            "#comment": "Obtain location - Slayer Mode",
-            "mid": "1000125136",
-            "match": "슬레이어 모드 상점",
-            "value": "Slayer Mode"
-        },
-        {
             "#comment": "Obtain location",
             "mid": "1000119684",
             "match": "93Lv 장비 분해",
@@ -20,6 +14,14 @@
             "mid": "1000122971",
             "match": "그린드래곤 네스트 TimeAttack",
             "value": "Green Dragon Nest Time Attack"
+        }
+    ],
+    "#old": [
+        {
+            "#comment": "Obtain location - Slayer Mode",
+            "mid": "1000125136",
+            "match": "슬레이어 모드 상점",
+            "value": "Slayer Mode"
         }
     ]
 }

@@ -3,14 +3,14 @@
     "add": {
     },
     "edit": [
+    ],
+    "#old": [
         {
             "#comment": "Talisman Material Pouch Desc",
             "mid": "1000126009",
             "match": "#s[{0}]\\n#w탈리스만 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 탈리스만의 정수 또는 조각을 얻을 수 있다. ",
             "value": "#s[{0}]\\n#wA pouch that contains materials for crafting Talismans. You can obtain Crude Luminous Talisman Essences or Fragments."
-        }
-    ],
-    "#old": [
+        },
         {
             "#comment": "Talisman Material Pouch Name",
             "mid": "1000125994",
