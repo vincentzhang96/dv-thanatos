@@ -1,0 +1,15 @@
+{
+    "#comment": "Character Info UI",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Labyrinth attempts",
+            "mid": "140432",
+            "match": "",
+            "value": "%s can be entered using %d FTG"
+        }
+    ],
+    "#old": [
+    ]
+}
