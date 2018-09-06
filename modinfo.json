@@ -2,7 +2,7 @@
   "id": "dv-thanatos",
   "name": "Divinitor Thanatos",
   "description": "Community maintained fixes for DN",
-  "version": "0.705.0",
+  "version": "0.726.0",
   "author": "Vahr",
   "timestamp": "1526443257",
   "customPrefix": "00Resource_a",
@@ -18,5 +18,10 @@
       }
     ],
     "editTable": null
+  },
+  "eris": {
+    "majorVersion": 1,
+    "minorVersion": 0,
+    "gameVersion": 726
   }
 }
