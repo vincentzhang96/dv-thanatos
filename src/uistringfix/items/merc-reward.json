@@ -1,0 +1,55 @@
+{
+    "#comment": "Mercenary Exploration Rewards",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Crystal Dragon Legendary Mission Reward",
+            "mid": "1000128875",
+            "match": "",
+            "value": "{0} {1} (Crest)"
+        },
+        {
+            "#comment": "Crystal Dragon Legendary Mission Reward Desc",
+            "mid": "1000128879",
+            "match": "",
+            "value": "#s[Mercenary Exploration Reward]#w\\nLegends say that if you're lucky, you can get an epic enhancement crest with #yFinal Damage#w\\n\\nRequires #y100 Exploration Keys#w to open."
+        },
+        {
+            "#comment": "FD Crest Pouch",
+            "mid": "1000128877",
+            "match": "",
+            "value": "Legendary Epic FD Crest Pouch"
+        },
+        {
+            "#comment": "FD crest Pouch Desc",
+            "mid": "1000128881",
+            "match": "",
+            "value": "A pouch that contains a #yLv95 Epic Enhancement Crest#w with #yFinal Damage#w\\n\\nRight click to open."
+        },
+        {
+            "#comment": "Infinity Stone Legendary Mission Reward",
+            "mid": "1000128876",
+            "match": "",
+            "value": "{0} {1} (Gem)"
+        },
+        {
+            "#comment": "Infinity Stone Legendary Mission Reward Desc",
+            "mid": "1000128880",
+            "match": "",
+            "value": "#s[Mercenary Exploration Reward]#w\\nLegends say that if you're lucky, you can get a #yLv95 Legendary Dragon Gem#w\\n\\nRequires #y100 Exploration Keys#w to open."
+        },
+        {
+            "#comment": "LGem Pouch",
+            "mid": "1000128878",
+            "match": "",
+            "value": "Legendary Legendary Dragon Gem Pouch"
+        },
+        {
+            "#comment": "LGem Pouch Desc",
+            "mid": "1000128882",
+            "match": "",
+            "value": "A pouch that contains a #yLv95 Legendary Dragon Gem#w\\n\\nRight click to open."
+        }
+    ]
+}

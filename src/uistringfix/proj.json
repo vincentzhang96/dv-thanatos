@@ -19,16 +19,6 @@
         "items/obtain-location.json",
         "items/tuner-evo-hammer.json",
         "items/yumotron-food.json",
-        "ui/attempts.json",
-        "ui/buffs.json",
-        "ui/character-info.json",
-        "ui/heroexp.json",
-        "ui/map.json",
-        "ui/misc.json",
-        "ui/missions.json",
-        "ui/points.json",
-        "ui/settings.json",
-        "ui/storage-inventory.json",
-        "ui/titles.json"
+        "ui/proj.json"
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        }
+    ],
+    "includePrefix": "src/uistringfix/ui/",
+    "include": [
+        "attempts.json",
+        "buffs.json",
+        "character-info.json",
+        "heroexp.json",
+        "map.json",
+        "mercexplo.json",
+        "misc.json",
+        "missions.json",
+        "points.json",
+        "settings.json",
+        "storage-inventory.json",
+        "titles.json"
+    ]
+}

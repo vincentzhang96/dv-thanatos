@@ -1,0 +1,23 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        }
+    ],
+    "includePrefix": "src/uistringfix/items/",
+    "include": [
+        "guild-seal-gift.json",
+        "dragon-gem.json",
+        "labyrinth.json",
+        "material-pouch.json",
+        "merc-reward.json",
+        "obtain-location.json",
+        "tuner-evo-hammer.json",
+        "yumotron-food.json"
+    ]
+}

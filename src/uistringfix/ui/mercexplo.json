@@ -1,0 +1,19 @@
+{
+    "#comment": "Mercenary Exploration",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Crystal Dragon Legendary Mission",
+            "mid": "1000128440",
+            "match": "",
+            "value": "Defeat Howling Crystal Dragon (Crest)"
+        },
+        {
+            "#comment": "Infinity Stones Legendary Mission",
+            "mid": "1000128960",
+            "match": "",
+            "value": "Collect the Six Infinity Stones (Gem)"
+        }
+    ]
+}
