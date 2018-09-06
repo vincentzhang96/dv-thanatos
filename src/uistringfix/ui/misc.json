@@ -8,6 +8,24 @@
             "mid": "1000107062",
             "match": "",
             "value": "95"
+        },
+        {
+            "#comment": "Ancient tier",
+            "mid": "140412",
+            "match": "",
+            "value": "Ancient"
+        },
+        {
+            "#comment": "Tier 3",
+            "mid": "1000128908",
+            "match": "",
+            "value": "#bTier 3"
+        },
+        {
+            "#comment": "Tier 4",
+            "mid": "1000128979",
+            "match": "",
+            "value": "#vTier 4"
         }
     ]
 }
