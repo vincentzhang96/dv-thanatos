@@ -8,6 +8,12 @@
             "mid": "1000056921",
             "match": "Enhanced Dragon Gem",
             "value": "Dragon Gem"
+        },
+        {
+            "#comment": "Unique gem core desc",
+            "mid": "1000127700",
+            "match": "",
+            "value": "#s[Crafting Material]#w\\nWhen you disassemble a Unique Grade Dragon Gem, you stand a chance of getting the essence of dragon's life at a low rate. {0} is an important material for extracting the hidden power of Dragon Gems.\\n\\nUsed for crafting #r{2}{1} Legend#w Grade Dragon Gem."
         }
     ]
 }
