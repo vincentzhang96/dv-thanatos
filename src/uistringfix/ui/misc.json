@@ -26,6 +26,12 @@
             "mid": "1000128979",
             "match": "",
             "value": "#vTier 4"
+        },
+        {
+            "#comment": "Enhance string",
+            "mid": "140447",
+            "match": "",
+            "value": "%s successfully enhanced +%I64d %s!"
         }
     ]
 }
