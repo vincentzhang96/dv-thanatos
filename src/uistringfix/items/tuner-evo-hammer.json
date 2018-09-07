@@ -8,6 +8,12 @@
             "mid": "1000122040",
             "match": "#s[아이템 변환기]\\n#w95레벨 레전드 등급의 #r[+20 1티어 칼립스]#w 장비를 95레벨 레전드 #r[+0 2티어 칼립스]#w 장비로 변환할 수 있습니다.\\n\\n동일한 부위로만 변경할 수 있습니다.",
             "value": "#s[Item Converter]\\n#wConverts Lv95 Legend #r[+20 Tier 1 Calypso]#w equipment into Lv95 Legend #r[+0 Tier 2 Calypso]#w equipment.\\n\\nCan only be converted into the same item type."
+        },
+        {
+            "#comment": "Legendary Tuner",
+            "mid": "1000128963",
+            "match": "",
+            "value": "#s[Item Converter]#w\\nA tuner that can upgrade the rarity or tier of an item by one\\n\\n#s[Available Items]#w\\n#y(1). +20 Medea T2 (Rarity Upgrade)\\n(2). +20 Tier 1 Calypso (Tier Upgrade)\\n(3). +20 Tier 2 Calypso (Tier Upgrade)"
         }
     ]
 }
