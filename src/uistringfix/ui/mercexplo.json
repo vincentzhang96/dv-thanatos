@@ -14,6 +14,12 @@
             "mid": "1000128960",
             "match": "",
             "value": "Collect the Six Infinity Stones (Gem)"
+        },
+        {
+            "#comment": "Merc explo gold warning",
+            "mid": "230",
+            "match": "",
+            "value": "A large amount of gold is required to send this Hero.\nAre you sure you want to proceed?"
         }
     ]
 }
