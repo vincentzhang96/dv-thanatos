@@ -9,11 +9,8 @@
             "value": ""
         }
     ],
-    "includePrefix": "src/uistringfix/",
+    "includePrefix": "src/uistringfix/events/",
     "include": [
-        "classes/proj.json",
-        "events/proj.json",
-        "items/proj.json",
-        "ui/proj.json"
+        "crazyduck-skills.json"
     ]
 }

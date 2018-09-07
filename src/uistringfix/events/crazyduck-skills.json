@@ -1,0 +1,54 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Skill",
+            "mid": "1000110696",
+            "match": "",
+            "value": "Light of Justice!"
+        },
+        {
+            "#comment": "Skill",
+            "mid": "1000110699",
+            "match": "",
+            "value": "Judge the enemy with the power of #yJUSTICE#w. Shine a powerful light forward.\\n\\n#yPDMG 300%\\nMDMG300%\\n\\n#hJUSTICE DEMANDS RETRIBUTION!"
+        },
+        {
+            "#comment": "Skill",
+            "mid": "1000110697",
+            "match": "",
+            "value": "Run~ Run~"
+        },
+        {
+            "#comment": "Skill",
+            "mid": "1000110700",
+            "match": "",
+            "value": "Increase movement and action speed by 30%.\\n\\n#yDuration: 10s\\n\\n#hHeros never die!"
+        },
+        {
+            "#comment": "Skill",
+            "mid": "1000110698",
+            "match": "",
+            "value": "C'mon Soldier!"
+        },
+        {
+            "#comment": "Skill",
+            "mid": "1000110701",
+            "match": "",
+            "value": "Restore 5% HP every 2s\\n\\n#yDuration: 11s\\n\\n#hC'mon soldier! You have Dr. Duck!"
+        },
+        {
+            "#comment": "Skill",
+            "mid": "1000110075",
+            "match": "",
+            "value": "You and Me Connected"
+        },
+        {
+            "#comment": "Skill",
+            "mid": "1000110702",
+            "match": "",
+            "value": "Removes debuffs from the party.\\n\\n#hSolider, I'll back you up!"
+        }
+    ]
+}
