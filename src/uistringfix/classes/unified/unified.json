@@ -1,0 +1,13 @@
+{
+    "#comment": "Unified skills",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Unified FD Passive",
+            "mid": "1000049258",
+            "match": "(Passive) Increases the damage you deal to enemies by #y{0}#w.",
+            "value": "(Passive) Increases the damage you deal to enemies by #y{0}%#w."
+        }
+    ]
+}

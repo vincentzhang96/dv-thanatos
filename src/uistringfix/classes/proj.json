@@ -9,6 +9,7 @@
         "cleric/inquisitor.json",
         "cleric/priest.json",
         "cleric/saint.json",
-        "sorceress/pyro.json"
+        "sorceress/pyro.json",
+        "unified/unified.json"
     ]
 }
