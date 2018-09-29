@@ -8,6 +8,18 @@
             "mid": "1000122967",
             "match": "Premium Stroage (S)",
             "value": "Special (S)"
+        },
+        {
+            "#comment": "General server storage unavailable tooltip",
+            "mid": "1000128062",
+            "match": "",
+            "value": "General Storage cannot be used."
+        },
+        {
+            "#comment": "General server storage available tooltip",
+            "mid": "1000128063",
+            "match": "",
+            "value": "Can use General Storage"
         }
     ]
 }
