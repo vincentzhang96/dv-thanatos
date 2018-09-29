@@ -28,6 +28,12 @@
             "mid": "1000125996",
             "match": "#s[{0}]\\n#w용옥 제작에 필요한 재료를 얻을 수 있는 주머니. 하급 광휘의 용옥의 심장 또는 파편을 얻을 수 있다. ",
             "value": "#s[{0}]\\n#wA pouch that contains materials for crafting Dragon Gems. You can obtain Crude Luminous Dragon Gem Cores or Fragments."
+        },
+        {
+            "#comment": "Epic mercenary pouch",
+            "mid": "1000128272",
+            "match": "",
+            "value": "Epic Mercenary Pouch (Expiring)"
         }
     ]
 }
