@@ -32,6 +32,12 @@
             "mid": "1000132763",
             "match": "라비린스가 발생하는 곳에서 나타나는 독특한 광택의 금속. 대장장이들의 관심을 끌고 있다.\\n#y최대 6,000포인트까지 소지할 수 있습니다.\\n\\n#b[사용처]\\n#y[세인트헤이븐] -> [대장장이]\\n갤스페리아H3(레브리움 상점)",
             "value": "A metal with a unique sheen that can be found in the Labyrinth. It is very much coveted by the blacksmiths.\\n#yYou can have up to 6,000 Points.\\n\\n#b[Usage Location]\\n#y[Saint Haven] -> [Blacksmith]\\nInterdimensional Chat 6s Plus (Lebria Store)"
+        },
+        {
+            "#comment": "Battlefield Point Tooltip",
+            "mid": "1000121648",
+            "match": "",
+            "value": "Points you can earn by using Rumble contents.\\n\\n#b[Usage Location]\\n#ySpecial Store Helper Trisha (Battlefield Points Store)"
         }
     ]
 }
