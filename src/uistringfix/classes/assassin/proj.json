@@ -9,7 +9,7 @@
             "value": ""
         }
     ],
-    "includePrefix": "src/uistringfix/classes/assassin",
+    "includePrefix": "src/uistringfix/classes/assassin/",
     "include": [
         "lightbringer.json",
         "taoist.json"
