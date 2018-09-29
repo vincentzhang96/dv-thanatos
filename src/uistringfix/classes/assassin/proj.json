@@ -1,0 +1,17 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        }
+    ],
+    "includePrefix": "src/uistringfix/classes/assassin",
+    "include": [
+        "lightbringer.json",
+        "taoist.json"
+    ]
+}
