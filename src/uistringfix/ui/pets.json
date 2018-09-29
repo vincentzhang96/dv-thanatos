@@ -1,0 +1,13 @@
+{
+    "#comment": "Pet UI",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Ally's Heart",
+            "mid": "130391",
+            "match": "",
+            "value": "Current Pet %s is Level %d. When exchanged, you will get x%d %s."
+        }
+    ]
+}
