@@ -1,0 +1,13 @@
+{
+    "#comment": "Crusader Skills",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Electric Smite EXi",
+            "mid": "1000122511",
+            "match": "",
+            "value": "Electric Smite (Instant)"
+        }
+    ]
+}
