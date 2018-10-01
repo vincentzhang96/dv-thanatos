@@ -50,7 +50,12 @@
             "mid": "100084",
             "match": "The \"%s\" possessed by \"%s\" triggered \"%s\". ",
             "value": "%s's %s has bestowed %s!"
-        }
+        },
+        {
+            "#comment": "Premium benefit because ED is literally speeling",
+            "mid": "1000061809",
+            "match": "Premium Beneift",
+            "value": "Premium Benefit"
     ],
     "#old": [
     ]
