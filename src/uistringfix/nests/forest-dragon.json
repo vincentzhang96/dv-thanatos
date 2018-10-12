@@ -1,0 +1,36 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Aux",
+            "mid": "1000125872",
+            "match": "",
+            "value": "Aux"
+        },
+        {
+            "#comment": "Nightflower",
+            "mid": "1000128694",
+            "match": "",
+            "value": "Nightflower"
+        },
+        {
+            "#comment": "Thorny",
+            "mid": "1000125873",
+            "match": "",
+            "value": "Thorny"
+        },
+        {
+            "#comment": "Vines",
+            "mid": "1000125874",
+            "match": "",
+            "value": "Vines"
+        }
+    ]
+}

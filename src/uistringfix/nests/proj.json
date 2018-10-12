@@ -9,12 +9,8 @@
             "value": ""
         }
     ],
-    "includePrefix": "src/uistringfix/",
+    "includePrefix": "src/uistringfix/nests/",
     "include": [
-        "classes/proj.json",
-        "events/proj.json",
-        "items/proj.json",
-        "nests/proj.json",
-        "ui/proj.json"
+        "forest-dragon.json"
     ]
 }
