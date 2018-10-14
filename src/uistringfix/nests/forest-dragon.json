@@ -31,6 +31,18 @@
             "mid": "1000125874",
             "match": "",
             "value": "Vines"
+        },
+        {
+            "#comment": "Flower hint (fixed)",
+            "mid": "1019771",
+            "match": "When you showed me the lush forest for the first time under the bright azure sky,",
+            "value": "Under the bright azure sky, you showed me the lush forest for the first time"
+        },
+        {
+            "#comment": "Flower hint (fixed)",
+            "mid": "1019772",
+            "match": "my love will remain unchanged even if it sinks to the bottom of the deep blue lake",
+            "value": "Even sunken at the bottom of the deep blue lake, my love remains unchanged"
         }
     ]
 }
