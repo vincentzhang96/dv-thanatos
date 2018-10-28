@@ -11,6 +11,7 @@
     ],
     "includePrefix": "src/uistringfix/nests/",
     "include": [
-        "forest-dragon.json"
+        "forest-dragon.json",
+        "fdn-buffs.json"
     ]
 }

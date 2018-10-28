@@ -1,0 +1,96 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Dewdrop buff",
+            "mid": "1000127862",
+            "match": "",
+            "value": "Dewdrop"
+        },
+        {
+            "#comment": "Dry buff",
+            "mid": "1000127863",
+            "match": "",
+            "value": "Dry"
+        },
+        {
+            "#comment": "Dewdrop buff desc",
+            "mid": "1000127865",
+            "match": "",
+            "value": "Clear spring cleanses all poison in the body and dewdrops provide protection."
+        },
+        {
+            "#comment": "Dry buff desc",
+            "mid": "1000127865",
+            "match": "",
+            "value": "As the dewdrop dries up, its effects are disappearing too.\\n#yYou cannot get dewdrop and debuff removal effect for a certain duration."
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125860",
+            "match": "",
+            "value": "Poisoning Level 1"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125861",
+            "match": "",
+            "value": "Poisoning Level 2"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125862",
+            "match": "",
+            "value": "Poisoning Level 3"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125863",
+            "match": "",
+            "value": "Poisoning Level 4"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125864",
+            "match": "",
+            "value": "Poisoning Level 5"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125865",
+            "match": "",
+            "value": "Poisoning Level 6"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125866",
+            "match": "",
+            "value": "Poisoning Level 7"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125867",
+            "match": "",
+            "value": "Poisoning Level 8"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125868",
+            "match": "",
+            "value": "Poisoning Level 9"
+        },
+        {
+            "#comment": "Poison stack",
+            "mid": "1000125869",
+            "match": "",
+            "value": "Poisoning Level 10"
+        }
+    ]
+}
