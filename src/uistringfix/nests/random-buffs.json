@@ -1,0 +1,72 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Buff 138186",
+            "mid": "1000129865",
+            "match": "모든 데미지 무효화",
+            "value": "Invulnerable"
+        },
+        {
+            "#comment": "Buff 139777",
+            "mid": "1012461",
+            "match": "",
+            "value": "You will be electrocuted"
+        },
+        {
+            "#comment": "",
+            "mid": "1012463",
+            "match": "",
+            "value": "Trial of Plagues"
+        },
+        {
+            "#comment": "Buff 139813",
+            "mid": "1012464",
+            "match": "",
+            "value": "You will be afflicted with the plague"
+        },
+        {
+            "#comment": "Buff 139812",
+            "mid": "1012466",
+            "match": "",
+            "value": "Your body becomes increasingly heavy"
+        },
+        {
+            "#comment": "Buff 140414",
+            "mid": "1000129873",
+            "match": "",
+            "value": "The moonlight grants +100% damage and defense!"
+        },
+        {
+            "#comment": "Buff 139783",
+            "mid": "1012470",
+            "match": "",
+            "value": "You will be silenced"
+        },
+        {
+            "#comment": "Buff 139781",
+            "mid": "1012468",
+            "match": "",
+            "value": "Your will be confused"
+        },
+        {
+            "#comment": "Buff 139778",
+            "mid": "1012462",
+            "match": "",
+            "value": "You will be blinded"
+        },
+        {
+            "#comment": "",
+            "mid": "1012465",
+            "match": "",
+            "value": "Trial of Debilitation"
+        }
+    ]
+}
