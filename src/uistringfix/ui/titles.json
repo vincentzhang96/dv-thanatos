@@ -14,6 +14,12 @@
             "mid": "1000119369",
             "match": "대단한 정신력으로 1000번의 포인트 아이템을 이삭줍기 하였다.",
             "value": "Collected 1,000 Slayer Points with gusto."
+        },
+        {
+            "#comment": "SHD title",
+            "mid": "1000129935",
+            "match": "세인트헤이븐의 수호자",
+            "value": "Saint Haven's Guardian"
         }
     ],
     "#old": [
