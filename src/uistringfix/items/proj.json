@@ -12,6 +12,7 @@
     "includePrefix": "src/uistringfix/items/",
     "include": [
         "guild-seal-gift.json",
+        "guardian-talis.json",
         "dragon-gem.json",
         "labyrinth.json",
         "material-pouch.json",

@@ -1,0 +1,72 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "",
+            "mid": "1000129927",
+            "match": "",
+            "value": "#s[Enhancement Talisman]\\n#wA powerful talisman that increases stats when equipped.\\n#yThe increase in stats will depend on the slot it is equipped on. You have to pay commission for changing the slot or unequipping the talisman.\\n\\n#hThis talisman has been specially made for the defenders of Saint Haven."
+        },
+        {
+            "#comment": "",
+            "mid": "1000129929",
+            "match": "",
+            "value": "Sharp"
+        },
+        {
+            "#comment": "",
+            "mid": "1000129930",
+            "match": "",
+            "value": "Honed"
+        },
+        {
+            "#comment": "",
+            "mid": "1000130046",
+            "match": "",
+            "value": "Enhancement Kit"
+        },
+        {
+            "#comment": "",
+            "mid": "1000114867",
+            "match": "",
+            "value": "+1"
+        },
+        {
+            "#comment": "",
+            "mid": "1000114868",
+            "match": "",
+            "value": "+2"
+        },
+        {
+            "#comment": "",
+            "mid": "1000114869",
+            "match": "",
+            "value": "+3"
+        },
+        {
+            "#comment": "",
+            "mid": "1000114870",
+            "match": "",
+            "value": "+4"
+        },
+        {
+            "#comment": "",
+            "mid": "1000114871",
+            "match": "",
+            "value": "+6"
+        },
+        {
+            "#comment": "",
+            "mid": "1000114872",
+            "match": "",
+            "value": "+7"
+        }
+    ]
+}
