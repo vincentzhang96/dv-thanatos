@@ -3,6 +3,9 @@
     "add": {
     },
     "edit": [
+
+    ],
+    "#old": [
         {
             "#comment": "Daily mission",
             "mid": "1000127390",

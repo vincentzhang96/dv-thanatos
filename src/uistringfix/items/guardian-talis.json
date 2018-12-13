@@ -16,18 +16,6 @@
         },
         {
             "#comment": "",
-            "mid": "1000129966",
-            "match": "",
-            "value": "Guardian's Honed Enhancement Talisman"
-        },
-        {
-            "#comment": "",
-            "mid": "1000129967",
-            "match": "",
-            "value": "Guardian's Sharp Enhancement Talisman"
-        },
-        {
-            "#comment": "",
             "mid": "1000129929",
             "match": "",
             "value": "Sharp"
@@ -37,6 +25,20 @@
             "mid": "1000129930",
             "match": "",
             "value": "Honed"
+        }
+    ],
+    "#old": [
+        {
+            "#comment": "",
+            "mid": "1000129966",
+            "match": "",
+            "value": "Guardian's Honed Enhancement Talisman"
+        },
+        {
+            "#comment": "",
+            "mid": "1000129967",
+            "match": "",
+            "value": "Guardian's Sharp Enhancement Talisman"
         },
         {
             "#comment": "",

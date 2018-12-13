@@ -4,16 +4,36 @@
     },
     "edit": [
         {
+            "#comment": "Enhance string",
+            "mid": "140447",
+            "match": "%s succeeded +%I64d %s enhancement.",
+            "value": "%s successfully enhanced +%I64d %s!"
+        },
+        {
+            "#comment": "Guild logoff",
+            "mid": "1426",
+            "match": "1426",
+            "value": "Guildie %s logged out"
+        },
+        {
+            "#comment": "Unified",
+            "mid": "1849",
+            "match": "1849",
+            "value": "Unified Level Skills refer to the skills acquired automatically when the sum of all your characters' levels increases.\nAcquired Unified Level Skills level up when your Hero Level increases."
+        },
+        {
+            "#comment": "Unified",
+            "mid": "1850",
+            "match": "1850",
+            "value": "The following Unified Level Skills will level up when your Hero Level reaches level %d."
+        }
+    ],
+    "#old": [
+        {
             "#comment": "Ancient tier",
             "mid": "140412",
             "match": "",
             "value": "Ancient"
-        },
-        {
-            "#comment": "Tier 3",
-            "mid": "1000128908",
-            "match": "",
-            "value": "#bTier 3"
         },
         {
             "#comment": "Tier 4",
@@ -22,28 +42,10 @@
             "value": "#vTier 4"
         },
         {
-            "#comment": "Enhance string",
-            "mid": "140447",
+            "#comment": "Tier 3",
+            "mid": "1000128908",
             "match": "",
-            "value": "%s successfully enhanced +%I64d %s!"
-        },
-        {
-            "#comment": "Guild logoff",
-            "mid": "1426",
-            "match": "",
-            "value": "Guildie %s logged out"
-        },
-        {
-            "#comment": "Unified",
-            "mid": "1849",
-            "match": "",
-            "value": "Unified Level Skills refer to the skills acquired automatically when the sum of all your characters' levels increases.\nAcquired Unified Level Skills level up when your Hero Level increases."
-        },
-        {
-            "#comment": "Unified",
-            "mid": "1850",
-            "match": "",
-            "value": "The following Unified Level Skills will level up when your Hero Level reaches level %d."
+            "value": "#bTier 3"
         }
     ]
 }

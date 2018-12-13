@@ -3,12 +3,6 @@
     "add": {
     },
     "edit": [
-        {
-            "#comment": "Labyrinth nest entry error",
-            "mid": "140391",
-            "match": "",
-            "value": "Insufficient FTG. You must have enough FTG to enter."
-        }
     ],
     "#old": [
         {
@@ -16,6 +10,12 @@
             "mid": "1000130835",
             "match": "분열의 네스트 1지구",
             "value": "Labyrinth Division 1"
+        },
+        {
+            "#comment": "Labyrinth nest entry error",
+            "mid": "140391",
+            "match": "",
+            "value": "Insufficient FTG. You must have enough FTG to enter."
         }
     ]
 }

@@ -6,15 +6,17 @@
         {
             "#comment": "Ally's Heart",
             "mid": "130391",
-            "match": "",
+            "match": "130391",
             "value": "Current Pet %s is Level %d. When exchanged, you will get x%d %s."
         },
         {
             "#comment": "Pet speech limit",
             "mid": "130236",
-            "match": "",
+            "match": "Can input up to 30 letters.",
             "value": "Maximum 30 chars"
-        },
+        }
+    ],
+    "#old": [
         {
             "#comment": "Pet speech shortcut",
             "mid": "130237",

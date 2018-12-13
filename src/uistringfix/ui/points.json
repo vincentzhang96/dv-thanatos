@@ -42,7 +42,7 @@
         {
             "#comment": "Battlefield Point Tooltip",
             "mid": "1000121648",
-            "match": "",
+            "match": "1000121648",
             "value": "Points you can earn by using Rumble contents.\\n\\n#b[Usage Location]\\n#ySpecial Store Helper Trisha (Battlefield Points Store)"
         }
     ]

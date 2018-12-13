@@ -8,7 +8,9 @@
             "mid": "1000122967",
             "match": "Premium Stroage (S)",
             "value": "Special (S)"
-        },
+        }
+    ],
+    "#old": [
         {
             "#comment": "General server storage unavailable tooltip",
             "mid": "1000128062",

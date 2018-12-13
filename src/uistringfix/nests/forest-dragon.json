@@ -15,12 +15,6 @@
             "value": "Aux"
         },
         {
-            "#comment": "Nightflower",
-            "mid": "1000128694",
-            "match": "",
-            "value": "Nightflower"
-        },
-        {
             "#comment": "Thorny",
             "mid": "1000125873",
             "match": "",
@@ -34,6 +28,12 @@
         }
     ],
     "#old": [
+        {
+            "#comment": "Nightflower",
+            "mid": "1000128694",
+            "match": "",
+            "value": "Nightflower"
+        },
         {
             "#comment": "Flower hint (fixed)",
             "mid": "1019771",
