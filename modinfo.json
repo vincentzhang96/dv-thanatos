@@ -20,8 +20,8 @@
     ],
     "editTable": null
   },
-  "expandPak": true,
-  "eris!": {
+  "expandPak": false,
+  "eris": {
     "majorVersion": 1,
     "minorVersion": 0,
     "serial": 16,
