@@ -1,0 +1,18 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Fission countdown",
+            "mid": "1018889",
+            "match": "뒤틀린 공간에서 새로운 길이 드러납니다.",
+            "value": "A new path is revealed from the distorted space."
+        }
+    ]
+}

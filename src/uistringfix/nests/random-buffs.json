@@ -51,6 +51,12 @@
             "value": "You will be silenced"
         },
         {
+            "#comment": "",
+            "mid": "1012467",
+            "match": "",
+            "value": "Trial of Confusion"
+        },
+        {
             "#comment": "Buff 139781",
             "mid": "1012468",
             "match": "",

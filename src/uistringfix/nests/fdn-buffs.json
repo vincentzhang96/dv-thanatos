@@ -91,6 +91,18 @@
             "mid": "1000125869",
             "match": "",
             "value": "Poisoning Level 10"
+        },
+        {
+            "#comment": "Growing distrust debuff",
+            "mid": "1000123086",
+            "match": "1000123086",
+            "value": "Growing Distrust"
+        },
+        {
+            "#comment": "Growing distrust debuff desc",
+            "mid": "1000125069",
+            "match": "1000125069",
+            "value": "Growing anxiety is making your body heavier.\\nAll Attack Power reduced by 75%"
         }
     ]
 }

@@ -14,6 +14,7 @@
         "attempts.json",
         "buffs.json",
         "character-info.json",
+        "dps.json",
         "heroexp.json",
         "map.json",
         "matching.json",
