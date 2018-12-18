@@ -1,0 +1,121 @@
+{
+    "add": {
+    },
+    "#comment": "Thanks to AdonFTW for these fixes",
+    "edit": [
+        {
+            "#comment": "Awk Frosty Cross Desc",
+            "mid": "1000130428",
+            "match": "#y[각성 스킬]로 강화되었다.\\n창을 십자 형태로 휘두르며 냉기를 뿜어낸다. 공격에 적중한 대상에게 일정시간 #y[동상]#w 효과를 적용시킨다. #y[일반 공격 버튼]#w 입력으로 추가 공격을 사용하거나, #y[특수 공격 버튼]#w 입력으로 #y[각성] 블런트 슬래쉬#w를 사용할 수 있다. \\n#y공격력 {0}%\\n\\n#b[동상]\\n#y행동속도 감소 {1}%\\n지속시간 {2}초",
+            "value": "#yEnhanced as [Awakened Skill].\\nReleases ice energy while swinging the lance in an X shape. Enemies that are hit accurately will be inflicted with #y[Frostbite]#w for a while. You can enter #y[Normal Attack Button]#w for an additional attack or #y[Special Attack Button]#w to use #y[Awakened] Blunt Slash#w. \\n#y{0}% ATK\\n\\n#b[Frostbite]\\n#yAction speed reduced by {1}%\\nLasts for {2} sec"
+        },
+        {
+            "#comment": "Awk Parrying Step Desc",
+            "mid": "1000132364",
+            "match": "#y[각성 스킬]#w로 강화되었다.\\n방어 자세를 취하며 뒤로 도약한다. 동작 전반부에 #y[패링]#w 판정이 적용된다. 패링 성공시 주력 스킬의 재사용 대기시간이 {0}% 회복된다.\\n\\n#b[패링]#w\\n적이 가하는 피해를 무효화한다. 단, #y상태이상#w은 무효화 할 수 없다.\\n\\n#b[주력 스킬]\\n#y게일 스탭\\n스플리터\\n익스트림 트위스터\\n프로스티 크로스\\n모멘터리 판타즘\\n페이탈 스팅어",
+            "value": "Enhanced as #y[Awakened Skill]#w.\\nTakes defence position and leaps to the back. #y[Parrying]#w is applied at the beginning of the action. When parrying is successful, cooldown of main skills are recovered by {0}%.\\n\\n#b[Parrying]#w\\nNullifies damage from enemies. However, #ydebuff conditions#w cannot be removed.\\n\\n#b[Main Skills]\\n#yGale Stab\\nSplitter\\nExtreme Twister\\nFrosty Cross\\nMomentary Phantasm\\nFatal Stinger"
+        },
+        {
+            "#comment": "Awk Brandish Desc",
+            "mid": "1000129769",
+            "match": "#y[각성 스킬]#w로 강화되었다.\\n랜스를 왼쪽에서 오른쪽으로 휘두르며 적을 밀쳐낸다.\\n#y공격력 {0}%\\n\\n대상 받는 피해 증가 {1}%\\n지속시간 {2}초",
+            "value": "Enhanced as #y[Awakened Skill]#w.\\nSwings the lance from left to right and pushes enemies away.\\n#y{0}% ATK\\n\\nTarget's received damage increases by {1}%\\nLasts for {2} sec"
+        },
+        {
+            "#comment": "Power of Knightess Desc",
+            "mid": "1000132026",
+            "match": "내면의 잠재력을 발산하여 공격력을 강화한다.\\n\\n#y파이널 데미지 {0}% 증가\\n지속시간 {1}초",
+            "value": "Releases inner potential to enhance Attack Power.\\n\\n#yFinal damage increases by {0}%\\nLasts for {1} sec"
+        },
+        {
+            "#comment": "Lance Mastery Desc",
+            "mid": "1000132027",
+            "match": "랜스를 능숙하게 다뤄 치명적인 공격이 발생할 할 확률이 높아진다.\\n\\n#y크리티컬 {0}% 증가\\n크리티컬 데미지 {1}% 증가\\n속성 공격력이 가장 높은 수치로 통일",
+            "value": "Wields the lance with more finesse and increases the chances of a critical attack.\\n\\n#yCritical rate increases by {0}%\\nCritical damage increases by {1}%\\nHighest Attribute ATK is applied"
+        },
+        {
+            "#comment": "Icy Blast Desc",
+            "mid": "1000130434",
+            "match": "랜스에 냉기를 응축시키며 주변 땅을 얼어붙게 만든다. 랜스를 내지르면 축적된 냉기가 쏟아져 나가며 전방 넓은 범위의 적에게 피해를 입힌다.\\n#y공격력 {0}%\\n얼음 파편 공격력 {1}%\\n시전 중 무적\\n\\n#b[동상]#y\\n행동 속도 감소 {2}%\\n지속시간 {3}초",
+            "value": "Compresses ice energy inside the lance and freezes nearby ground. When the lance is thrusted, compressed ice energy deals damage on enemies over a wide area in front.\\n#y{0}% ATK\\nIce Fragment: {1}% ATK\\nInvulnerable while the skill is being used\\n\\n#b[Frostbite]#y\\nAction speed reduced by {2}%\\nLasts for {3} sec"
+        },
+        {
+            "#comment": "Crystal Shooter Desc",
+            "mid": "1000132361",
+            "match": "얼음창을 전방으로 발사한다. 스킬 사용 시 일정시간 마법 공격력이 상승하는 효과를 얻는다. #y모든 스킬#w 시전 중 #y[스킬 키]#w 입력으로 즉시 사용할 수 있다.\\n#y공격력 {0}%\\n\\n사용시 [얼음창] 1개 소모\\n마법 공격력 {1}%증가\\n{2}회까지 중첩 가능\\n지속시간 {3}초",
+            "value": "Throws the Ice Spear at enemies in front. When the Ice Spear hits enemies accurately, Attack Power increases for a while. It can be used immediately by entering the #y[Skill Key]#w during #yall skills#w.\\n#y{0}% ATK\\n\\nUses 1 [Ice Spear]\\nMagic ATK increases by {1}%\\nCan be stacked up to {2} times\\nLasts for {3} sec"
+        },
+        {
+            "#comment": "Fatal Stinger Desc",
+            "mid": "1000130076",
+            "match": "뒤로 물러나며 얼음창의 기운을 흡수한다. 흡수가 완료되면 랜스에 응축된 얼음창의 기운이 쏘아져나간다. 뒤로 물러나는 동안 #y[패링]#w 판정이 적용된다.\\n#y 공격력 {0}%#w\\n\\n#b[패링]#w\\n적이 가하는 피해를 무효화한다. 단, #y상태이상#w은 무효화 할 수 없다.",
+            "value": "Steps back and absorbs Ice Spear’s energy. Afterwards, the character shoots Ice Spear energy collected in the lance. #y[Parrying]#w is applied while moving backwards.\\n#y {0}% ATK#w\\n\\n#b[Parrying]#w\\nNullifies damage from enemies. However, #ydebuff conditions#w cannot be removed."
+        },
+        {
+            "#comment": "Momentary Phantasm Ex Desc",
+            "mid": "1000131070",
+            "match": "모멘터리 판타즘이 강화된다.\\n공격력이 {0}% 증가하며, 반복 동작의 공격 횟수가 {1}% 감소하는 대신 공격력 적용 비율은 {2}% 증가한다.\\n반복 공격은 #y[일반 공격 버튼]#w 입력을 유지할 경우 점차 강화된다. 총 #y{3}단계#w에 걸쳐 강화되며, #y[일반 공격 버튼]#w 입력을 중간에 해제하면 해당 강화 단계의 마무리 공격이 즉시 발동된다.\\n\\n#y강화 1단계 - 공격력 {4}% 증가\\n강화 2단계 - {5}% 증가",
+            "value": "Momentary Phantasm is enhanced.\\nAttack Power increases by {0}%. Number of hits for the repeated skill action is reduced by {1}% but its weightage of Attack Power increases by {2}%.\\nRepeated attacks are enhanced gradually when you hold #y[Normal Attack Button]#w. Continuous attacks are enhanced in #y{3} levels#w and final attack for each level is activated immediately when you release #y[Normal Attack Button]#w.\\n\\n#yEnhanced Lv. 1: ATK increases by {4}%\\nEnhanced Lv. 2: ATK increases by {5}%"
+        },
+        {
+            "#comment": "Fatal Stinger Ex Desc",
+            "mid": "1000132025",
+            "match": "페이탈 스팅어가 강화된다.\\n#y[페이탈 스팅어]#w의 기본 공격력은 약화되지만 소모된 #y[얼음창]#w의 개수에 비례하여 공격력이 상승한다.\\n#y얼음창이 없을 때 {0}%\\n얼음창 {1}개 소모 {2}%\\n얼음창 {3}개 소모 {4}%\\n얼음창 {5}개 소모 {6}%\\n얼음창 {7}개 소모 {8}%\\n얼음창 {9}개 소모 {10}%",
+            "value": "Fatal Stinger is enhanced.\\n#y[Fatal Stinger]#w's basic Attack Power is weakened but Attack Power increases in proportion to the number of #y[Ice Spears]#w used.\\n#y0 Ice Spear used: {0}%\\n{1} Ice Spear used: {2}%\\n{3} Ice Spear used: {4}%\\n{5} Ice Spear used: {6}%\\n{7} Ice Spear used: {8}%\\n{9} Ice Spear used: {10}%"
+        },
+        {
+            "#comment": "Class Mastery Desc",
+            "mid": "1000130469",
+            "match": "자신의 지능이 #y{0}%#w 증가한다.\\n#y[크리스탈 슈터]#w 히트 시 #y[페이탈 스팅어]#w의 재사용 대기시간이 #y{1}#w초 감소한다.",
+            "value": "Own Intellect increases by #y{0}%#w.\\nWhen #y[Crystal Shooter]#w hits enemies, #y[Fatal Stinger]#w’s cooldown is reduced by #y{1}#w seconds."
+        },
+        {
+            "#comment": "Class Mastery iii Desc",
+            "mid": "1000132136",
+            "match": "#y[휠 블레이드]#w가 #y물 속성#w으로 변경되고 공격력 및 공격 범위가 넓어진다. #y[휠 블레이드]#w 사용 후 #y[모멘터리 판타즘]#w을 연계해서 사용하면 차징 없이 최대 공격력이 반영된다. 단, #y[일반 공격 버튼]#w 입력으로 추가 강화할 수는 없다.\\n\\n#y[휠 블레이드]의 공격력 {0} 증가#w\\n\\n추가로, #y[휠 블레이드], [각성 브랜디쉬], [각성 블런트 슬래쉬]#w에 #y[크리스탈 랜스]#w 효과가 적용된다.#y\\n\\nPVP에서는 적용되지 않음",
+            "value": "#y[Wheel Blade]#w is changed to #yWater Attribute#w and its Attack Power and attack area are increased. After using #y[Wheel Blade]#w, follow up with #y[Momentary Phantasm]#w to use maximum Attack Power without charging. However, you cannot enter #y[Normal Attack Button]#w for additional enhancement.\n\n#y[Wheel Blade]'s ATK increases by {0}#w\\n\\nAdditionally, #y[Crystal Lance]#w effect is applied on #y[Wheel Blade], [Awakened Brandish], and [Awakened Blunt Slash]#w.#y\\n\\nNot applicable in PVP"
+        },
+        {
+            "#comment": "Awk Pass Battle Sense - Avalanche Desc",
+            "mid": "1000132363",
+            "match": "#y[패링 스텝]#w과 #y[파이팅 스피릿]#w이 강화된다.\\n\\n#b[패링 스텝]#w\\n#y재사용 대기시간 {0}초 감소\\n패링 성공시 주력 스킬 재사용 대기시간 {1}% 회복\\n\\n#b[파이팅 스피릿]#w\\n#y재사용 대기시간 {2}초 감소\\n지속시간 {3}초 증가\\n\\n#b[주력 스킬]\\n#y게일 스탭\\n스플리터\\n익스트림 트위스터\\n프로스티 크로스\\n모멘터리 판타즘\\n페이탈 스팅어",
+            "value": "#y[Parrying Step]#w and #y[Fighting Spirit]#w are enhanced.\\n\\n#b[Parrying Step]#w\\n#yCooldown reduced by {0} sec\\nWhen parrying is successful, cooldown of main skills are recovered by {1}%\\n\\n#b[Fighting Spirit]#w\\n#yCooldown reduced by {2} sec\\nDuration increases by {3} sec\\n\\n#b[Main Skills]\\n#yGale Stab\\nSplitter\\nExtreme Twister\\nFrosty Cross\\nMomentary Phantasm\\nFatal Stinger"
+        },
+        {
+            "#comment": "Awk Pass Frost Infusion Desc",
+            "mid": "1000131975",
+            "match": "#y[브랜디쉬]#w와 #y[블런트 슬래쉬]#w가 강화된다.\\n\\n#b[브랜디쉬]\\n#y물속성 부여\\n공격력 {0}% 상승\\n재사용 대기시간 {1}초 감소\\n시전 속도 상승\\n\\n#b[블런트 슬래쉬]\\n#y물속성 부여\\n공격력 {2}% 상승\\n[특수 공격 버튼] 입력으로 연계 발동 시 재사용 대기시간 {3}% 회복\\n[빙결] 효과 추가\\n\\n#b[빙결]\\n#y피해량 증가 효과 {4}%\\n지속시간 {5}초",
+            "value": "#y[Brandish]#w and #y[Blunt Slash]#w are enhanced.\\n\\n#b[Brandish]\\n#yWater Attribute\\nATK increases by {0}%\\nCooldown reduced by {1} sec\\nCasting speed increases\\n\\n#b[Blunt Slash]\\n#yWater Attribute\\nATK increases by {2}%\\nWhen successive skill is activated by entering [Special Attack Button], cooldown is recovered by {3}%\\n[Freeze] effect added\\n\\n#b[Freeze]\\n#yDamage increases by {4}%\\nLasts for {5} sec"
+        },
+        {
+            "#comment": "Awk Pass Frosty Cross Desc",
+            "mid": "1000130427",
+            "match": "#y[프로스티 크로스]#w가 강화된다.\\n\\n#y공격력 {0}% 증가\\n공격 범위 증가\\n[동상] 효과 추가\\n추가 조작 가능\\n\\n#b[동상]\\n#y행동속도 감소 {1}%\\n지속시간 {2}초\\n\\n#b[일반 공격 버튼]#w\\n#y올려 베기 사용\\n[각성] 프로스티 크로스 공격력의 {3}%\\n#b[특수 공격 버튼]#w\\n#y[각성] 블런트 슬래쉬 발동",
+            "value": "#y[Frosty Cross]#w is enhanced.\\n\\n#yATK increases by {0}%\\nAttack area increases\\n[Frostbite] effect added\\nAdditional control is allowed\\n\\n#b[Frostbite]\\n#yAction speed reduced by {1}%\\nLasts for {2} sec\\n\\n#b[Normal Attack Button]#w\\n#ySlash up\\n{3}% of [Awakened] Frosty Cross' ATK\\n#b[Special Attack Button]#w\\n#yActivate [Awakened] Blunt Slash"
+        },
+        {
+            "#comment": "Awk Pass Fronstbite Desc",
+            "mid": "1000132264",
+            "match": "#y[동상]#w 효과를 가진 스킬로 공격 성공 시 #y[치명적 일격]#w 효과가 적용된다. #y[치명적 일격]#w 상태 중 적에게 #y[특정 스킬]#w로 피해를 입히면 확률적으로 #y[페이탈 스팅어]#w가 강화된다. #y강화된 [페이탈 스팅어]#w는 얼음창 소모없이 얼음창을 #y{0}개#w 소모하는 것과 동일한 피해를 입힌다.\\n\\n#b[치명적 일격]\\n#y지속시간 {1}초\\n[페이탈 스팅어] 강화 발동 확률 {2}% (모든 히트에 적용)\\n\\n#b[각성 페이탈 스팅어]\\n#y강화 지속시간 {3}초\\n재사용 대기시간 {4}초\\n\\n#b[특정 스킬]#w\\n#y게일 스탭\\n스플리터\\n익스트림 트위스터\\n프로스티 크로스\\n모멘터리 판타즘\\n브랜디쉬\\n블런트 슬래쉬",
+            "value": "When a skill that has #y[Frostbite]#w effect successfully hits enemies, #y[Fatal Blow]#w effect is applied. Dealing damage on enemies using #y[applicable skills]#w while #y[Fatal Blow]#w effect is active has a chance to enhance #y[Fatal Stinger]#w. #yEnhanced [Fatal Stinger]#w does not require Ice Spear and deals the same damage as using {0} Ice Spears.\\n\\n#b[Fatal Blow]\\n#yLasts for {1} sec\\n[Fatal Stinger] Enhancement activation rate: {2}% (applied on all hits)\\n\\n#b[Awakened Fatal Stinger]\\n#yEnhancement lasts for {3} sec\\n{4} sec cooldown\\n\\n#b[Applicable Skills]#w\\n#yGale Stab\\nSplitter\\nExtreme Twister\\nFrosty Cross\\nMomentary Phantasm\\nBrandish\\nBlunt Slash"
+        },
+        {
+            "#comment": "Crystal Maker Desc",
+            "mid": "1000132362",
+            "match": "일정 시간 동안 #y[주력 스킬]#w 사용 시 냉기를 흡수하여 #y[얼음창]#w을 생성할 수 있게 된다. 또한, #y[크리스탈  슈터]#w를 #y[얼음창]#w 소모없이 사용할 수 있다.\\n\\n#y지속시간 {0}초\\n\\n#b[주력 스킬]\\n#y게일 스탭\\n스플리터\\n익스트림 트위스터\\n프로스티 크로스\\n모멘터리 판타즘",
+            "value": "For a period of time, ice energy can be absorbed to create #y[Ice Spear]#w when #y[Main Skills]#w are used. Also, #y[Crystal Shooter]#w can be used without using #y[Ice Spear]#w.\\n\\n#yLasts for {0} sec\\n\\n#b[Main Skills]\\n#yGale Stab\\nSplitter\\nExtreme Twister\\nFrosty Cross\\nMomentary Phantasm"
+        },
+        {
+            "#comment": "Blizzard Shooter Desc",
+            "mid": "1000130512",
+            "match": "얼음 정령을 소환하여 전방 넓은 범위에 냉기 폭풍을 일으킨다. 피해를 입은 대상은 #y[동상]#w 상태가 된다.\\n#y히트당 공격력 {0}%\\n\\n#b[동상]\\n#y행동속도 감소 {1}%\\n지속시간 {2}초",
+            "value": "For a period of time, ice energy can be absorbed to create #y[Ice Spear]#w when #y[Main Skills]#w are used. Also, #y[Crystal Shooter]#w can be used without using #y[Ice Spear]#w.\\n\\n#yLasts for {0} sec\\n\\n#b[Main Skills]\\n#yGale Stab\\nSplitter\\nExtreme Twister\\nFrosty Cross\\nMomentary Phantasm"
+        },
+        {
+            "#comment": "Damage Resistance Desc",
+            "mid": "1000129764",
+            "match": "1000129764",
+            "value": "Gains the ability to heal own wounds in battle. HP is recovered immediately when hit.\\n\\n#yRecovers HP by {0}% of Max HP\\nActivation rate: {1}%"
+        }
+    ]
+}

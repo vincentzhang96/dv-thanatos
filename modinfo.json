@@ -2,8 +2,11 @@
   "id": "dv-thanatos",
   "name": "Divinitor Thanatos",
   "description": "Community maintained fixes for DN",
-  "version": "0.755.0-NIGHTLY",
+  "version": "0.756.0-NIGHTLY",
   "author": "Vahr",
+  "contributors": [
+    "AdonFTW"
+  ],
   "timestamp": "1526443257",
   "customPrefix": "00Resource_a",
   "projectUrl": "https://github.com/vincentzhang96/dv-thanatos/",
@@ -25,6 +28,6 @@
     "majorVersion": 1,
     "minorVersion": 0,
     "serial": 16,
-    "gameVersion": 755
+    "gameVersion": 756
   }
 }

@@ -11,6 +11,7 @@
         "cleric/inquisitor.json",
         "cleric/priest.json",
         "cleric/saint.json",
+        "lencea/proj.json",
         "sorceress/pyro.json",
         "unified/unified.json"
     ]
