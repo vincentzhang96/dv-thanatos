@@ -12,7 +12,8 @@
         "cleric/priest.json",
         "cleric/saint.json",
         "lencea/proj.json",
-        "sorceress/pyro.json",
+        "machina/proj.json",
+        "sorceress/proj.json",
         "unified/unified.json"
     ]
 }

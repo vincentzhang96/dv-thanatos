@@ -1,0 +1,55 @@
+{
+    "#comment": "Thanks to AdonFTW for these fixes",
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Charging Gear Desc",
+            "mid": "1000125711",
+            "match": "일반공격 5타가 차징 가능해지고, 차징 공격 후 #y[리트로차지]#w를 연결할 수 있다.\\n\\n#y차징 단계에 따른 공격력 {0}~{1}%",
+            "value": "You can charge 5 normal attacks and the attack can be followed by #y[Nitro Charge]#w.\\n\\n#y{0}~{1}% ATK following the charging level"
+        },
+        {
+            "#comment": "Aerial Parry EX Desc",
+            "mid": "1000125829",
+            "match": "#y[에어셔빙]#w을 강화한다.\\n방어 성공 시 랜덤한 방향으로 #y[회복 기류]#w를 #y3개#w 생성시킨다.\\n\\n#y[회복 기류]:#w 자신의 HP 회복 및 방어력 상승\\n#y[회복 기류] 지속시간 {0}초\\n#y방어력 #y{1}% 상승\\n#y2초 마다 HP {2}% 회복",
+            "value": "#y[Air Shove]#w is enhanced.\\nWhen defence is successful,  #y3 [Recovery Currents]#w are created in a random direction.\\n\\n#y[Recovery Current]:#w Recovers own HP and increases defence power\\n#y[Recovery Current] Lasts for {0} sec\\n#yDEF increases by #y{1}%\\n#yRecovers HP every 2 sec by {2}%"
+        },
+        {
+            "#comment": "Class Mastery ii Desc",
+            "mid": "1000125721",
+            "match": "#y[비욘드 더 월]#w 사용 시 #y[비트다운EX]#w인스턴스로 잠시 변경되며, 즉시 빠르게 사용할 수 있다.\\n#y물리 공격력 {0}%증가#w\\n#y비트다운과 인스턴스는 쿨타임을 공유하지 않음",
+            "value": "When #y[Beyond the Wall]#w is used, #y[Beat Down EX]#w changes to Instant for a while and can be used quickly and immediately.\\n#yPhycial ATK +{0}%#w\\n#yBeat Down does not share cooldown with Instant"
+        },
+        {
+            "#comment": "Class Mastery iii Desc",
+            "mid": "1000125933",
+            "match": "#y[래리어트]#w의 데미지 및 공격 범위가 증가한다.\\n\\n#y[래리어트]#w 사용 후 #y[타운팅 블로우 EX]#w를 연계하면 표식 폭발이 내려치는 지점에 즉시 발동되며 폭발 수가 증가한다.\\n\\n#y[래리어트]의 공격력 공격력 기존의 {0}배\\n[타운팅 블로우 EX]의 표식 폭발 수 {1}회 증가\\n\\nPVP에서는 적용되지 않음",
+            "value": "#y[Lariat]#w's damage and atack area are increased.\\n\\nAfter using #y[Lariat]#w, use #y[Taunting Blow EX]#w to activate it immediately when the mark's explosion occurs and more explosions will occur.\\n\\n#y[Lariat]'s ATK increases by {0} times\\n[Taunting Blow EX]'s mark explosion increases by {1}\\n\\nNot applicable in PVP"
+        },
+        {
+            "#comment": "Awk Pass Aerial Parry Desc",
+            "mid": "1000125579",
+            "match": "#y[에어셔빙]을 강화한다.#w\\n\\n적에게 피격 당할 경우 일정 확률로 #y[에어셔빙]#w 이 자동으로 발동된다.\\n\\n#y지상 또는 공중에서 피격 시 {0}% 확률로 [에어 셔빙] 발동",
+            "value": "#y[Air Shove] is enhanced. #w\\n\\nWhen hit by the enemy, #y[Air Shove]#w is automatically activated at certain probability.\\n\\n#yWhen hit by the enemy in the air or on the ground, [Air Shove] is activated at {0}%"
+        },
+        {
+            "#comment": "Awk Pass Air Current Mastery Desc",
+            "mid": "1000125961",
+            "match": "#y[스텝업]#w에서 연계되는 #y[비트 다운]#w 또는 #y[리핑 오버]#w 사용 시 #y[회복 기류]#w 가 1개 생성된다.\\n\\n#y[회복 기류]:#w 자신의 HP 회복 및 방어력 상승\\n#y[회복 기류] 지속시간 {0}초\\n#y{1}초동안 방어력 #y{2}% 상승\\n#y{3}초 마다 HP {4}% 회복",
+            "value": "When #y[Step Up]#w is followed up with #y[Beat Down]#w or #y[Leap Over]#w, 1 #y[Recovery Current]#w is created.\\n\\n#y[Recovery Current]:#w Increases own HP recovery and Defence Power\\n#y[Recovery Current] lasts for {0} sec\\n#yFor {1} sec, DEF increases by #y{2}%\\n#yRecovers HP every {3} sec by {4}%"
+        },
+        {
+            "#comment": "Ruination",
+            "mid": "1000125364",
+            "match": "공중에서 급강하하여 지면을 주먹으로 내려친 후, 그대로 지면을 전방으로 퍼올려 충격파를 발생시켜 적을 공격한다.\\n\\n#y공격력 {0}%",
+            "value": "Fall suddenly from the air and slam the ground with a fist, and create shock wave from the fragment to attack the enemies.\\n\\n#yATK {0}%"
+        }
+    ]
+}
