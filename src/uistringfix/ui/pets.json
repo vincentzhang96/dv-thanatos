@@ -20,13 +20,13 @@
         {
             "#comment": "Pet speech shortcut",
             "mid": "130237",
-            "match": "",
+            "match": "130237",
             "value": "Tip: Use the '/pet <msg>' chat command to quickly update your ally speech bubble"
         },
         {
             "#comment": "Pet speech clear shortcut",
             "mid": "130245",
-            "match": "",
+            "match": "130245",
             "value": "Tip: Use the '/petoff' chat command to turn off your ally speech bubble"
         }
     ]
