@@ -26,6 +26,24 @@
             "mid": "1850",
             "match": "1850",
             "value": "The following Unified Level Skills will level up when your Hero Level reaches level %d."
+        },
+        {
+            "#comment": "Waiting for party members",
+            "mid": "1018894",
+            "match": "다른 파티원을 기다리는 중입니다.",
+            "value": "Waiting for another party member."
+        },
+        {
+            "#comment": "Waiting for party members",
+            "mid": "1018895",
+            "match": "다른 파티원을 기다리는 중입니다..",
+            "value": "Waiting for another party member.."
+        },
+        {
+            "#comment": "Waiting for party members",
+            "mid": "1018896",
+            "match": "다른 파티원을 기다리는 중입니다...",
+            "value": "Waiting for another party member..."
         }
     ],
     "#old": [
