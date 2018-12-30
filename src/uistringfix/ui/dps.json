@@ -7,7 +7,7 @@
             "#comment": "",
             "mid": "1018164",
             "match": "[라비나]",
-            "value": "[Ravina]"
+            "value": "[Labina]"
         },
         {
             "#comment": "",
@@ -41,9 +41,15 @@
         },
         {
             "#comment": "",
-            "mid": "1018164",
-            "match": "",
-            "value": ""
+            "mid": "1018154",
+            "match": "[라바노크]",
+            "value": "[Lavanok]"
+        },
+        {
+            "#comment": "",
+            "mid": "1018167",
+            "match": "[캡틴 드루크]",
+            "value": "[Captain Drook]"
         }
     ],
     "#old": [
