@@ -6,20 +6,26 @@
         {
             "#comment": "Crystal Dragon Legendary Mission",
             "mid": "1000128440",
-            "match": "",
+            "match": "울부짖는 투명드래곤 처치",
             "value": "Defeat Howling Crystal Dragon (Crest)"
         },
         {
             "#comment": "Infinity Stones Legendary Mission",
             "mid": "1000128960",
-            "match": "",
+            "match": "여섯 개의 무한의 돌 수집",
             "value": "Collect the Six Infinity Stones (Gem)"
         },
         {
             "#comment": "Merc explo gold warning",
             "mid": "230",
-            "match": "",
+            "match": "230",
             "value": "A large amount of gold is required to send this Hero.\nAre you sure you want to proceed?"
+        },
+        {
+            "#comment": "Santa Orc",
+            "mid": "1000123032",
+            "match": "1000123032",
+            "value": "Santa Orc"
         }
     ]
 }
