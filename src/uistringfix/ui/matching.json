@@ -6,13 +6,13 @@
         {
             "#comment": "Declined",
             "mid": "140429",
-            "match": "",
+            "match": "140429",
             "value": "CANCEL"
         },
         {
             "#comment": "Party matching completed",
             "mid": "140427",
-            "match": "",
+            "match": "140427",
             "value": "Party matching is complete."
         }
     ]
