@@ -1,0 +1,19 @@
+{
+    "add": {
+        "1000144270": "#s[Revival Item]\\n#wA flower with the power to revive the dead. When death comes knocking, the flower's vitality is transferred to the holder. The flower dies when this happens.\\n#yAllows you to revive after dying. Cannot be used in some areas, and some areas limit how many times you can use this item."
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Flower of Hope desc",
+            "mid": "1000144270",
+            "match": "",
+            "value": "#s[Revival Item]\\n#wA flower with the power to revive the dead. When death comes knocking, the flower's vitality is transferred to the holder. The flower dies when this happens.\\n#yAllows you to revive after dying. Cannot be used in some areas, and some areas limit how many times you can use this item."
+        }
+    ]
+}
