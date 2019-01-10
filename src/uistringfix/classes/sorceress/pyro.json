@@ -10,16 +10,18 @@
             "value": "#y[Inferno]#w's attack area and damage are increased. An explosion occurs at the end or by using #y[Normal Attack Button]#w. Enemies hit accurately will take additional damage and have their Critical Resistance reduced.\\n#y[Inferno] damage +{0}%\\nExplosion damage {1}%\\nCritical Resistance reduced by {2}%\\nDuration {3} sec"
         },
         {
-            "#comment": "Hot Rod EX Desc",
-            "mid": "1000126310",
-            "match": "1000126310",
-            "value": "#y[Hot Rod]#w's damage increased. Explosions will occur where Hot Rod drives by and you will take reduced damage while Hot Rodding.\\n#yDamage per explosion: {0}% of [Hot Rod]\\nCan be cancelled with [Blink]\\n[Hot Rod] damage +{1}%\\nDamage taken reduced by {2}%"
-        },
-        {
             "#comment": "Awk Pass Fire Wall Desc",
             "mid": "1000126311",
             "match": "1000126311",
             "value": "#y[Fire Wall] is enhanced.\\n#y[Fire Wall]#w creates waves of fire to damage nearby enemies.\\nEnemies hit will be slowed.\\n#y[Fire Wall] damage +{0}%\\nEnemy movement speed -{1}%\\nDuration {2} sec"
+        }
+    ],
+    "#old": [
+        {
+            "#comment": "Hot Rod EX Desc",
+            "mid": "1000126310",
+            "match": "1000126310",
+            "value": "#y[Hot Rod]#w's damage increased. Explosions will occur where Hot Rod drives by and you will take reduced damage while Hot Rodding.\\n#yDamage per explosion: {0}% of [Hot Rod]\\nCan be cancelled with [Blink]\\n[Hot Rod] damage +{1}%\\nDamage taken reduced by {2}%"
         }
     ]
 }
