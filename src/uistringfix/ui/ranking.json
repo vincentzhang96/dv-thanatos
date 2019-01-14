@@ -1,0 +1,18 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Ranking",
+            "mid": "140452",
+            "match": "140452",
+            "value": "Ranking will be refreshed every morning from 07:00AM to 09:00AM."
+        }
+    ]
+}
