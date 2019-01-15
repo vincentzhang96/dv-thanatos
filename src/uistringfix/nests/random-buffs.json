@@ -17,62 +17,86 @@
         {
             "#comment": "Buff 139777",
             "mid": "1012461",
-            "match": "",
+            "match": "1012461",
             "value": "You will be electrocuted"
         },
         {
             "#comment": "",
             "mid": "1012463",
-            "match": "",
+            "match": "1012463",
             "value": "Trial of Plagues"
         },
         {
             "#comment": "Buff 139813",
             "mid": "1012464",
-            "match": "",
+            "match": "1012464",
             "value": "You will be afflicted with the plague"
         },
         {
             "#comment": "Buff 139812",
             "mid": "1012466",
-            "match": "",
+            "match": "1012466",
             "value": "Your body becomes increasingly heavy"
         },
         {
             "#comment": "Buff 140414",
             "mid": "1000129873",
-            "match": "",
+            "match": "달빛의 힘으로 모든 공격력과 방어력이 100% 상승 합니다!",
             "value": "The moonlight grants +100% damage and defense!"
         },
         {
             "#comment": "Buff 139783",
             "mid": "1012470",
-            "match": "",
+            "match": "1012470",
             "value": "You will be silenced"
         },
         {
             "#comment": "",
             "mid": "1012467",
-            "match": "",
+            "match": "1012467",
             "value": "Trial of Confusion"
         },
         {
             "#comment": "Buff 139781",
             "mid": "1012468",
-            "match": "",
+            "match": "1012468",
             "value": "Your will be confused"
         },
         {
             "#comment": "Buff 139778",
             "mid": "1012462",
-            "match": "",
+            "match": "1012462",
             "value": "You will be blinded"
         },
         {
             "#comment": "",
             "mid": "1012465",
-            "match": "",
+            "match": "1012465",
             "value": "Trial of Debilitation"
+        },
+        {
+            "#comment": "Trial title",
+            "mid": "1000132129",
+            "match": "낙뢰의 시련",
+            "value": "Trial of Lightning"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1000132135",
+            "match": "마른 하늘에 날벼락이 내려칩니다.",
+            "value": "Lightning will strike from clear skies"
+        },
+        {
+            "#comment": "Trial title",
+            "mid": "1000132128",
+            "match": "불씨의 시련",
+            "value": "Trial of Embers"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1000132134",
+            "match": "가까웠던 동료와 멀어져야 합니다.",
+            "value": "You must get away from your teammates"
         }
     ]
 }

@@ -16,6 +16,12 @@
             "value": "Guildie %s logged out"
         },
         {
+            "#comment": "Guild logon",
+            "mid": "100195",
+            "match": "길드원 \"%s\"님이 접속하였습니다.",
+            "value": "Guildie %s logged in"
+        },
+        {
             "#comment": "Unified",
             "mid": "1849",
             "match": "1849",
