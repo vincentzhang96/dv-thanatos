@@ -3,7 +3,12 @@
     "add": {
     },
     "edit": [
-
+        {
+            "#comment": "Fission Maze Mission",
+            "mid": "1000137683",
+            "match": "미로의 경계선",
+            "value": "Maze Perimeter"
+        }
     ],
     "#old": [
         {

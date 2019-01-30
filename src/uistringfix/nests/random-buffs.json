@@ -97,6 +97,30 @@
             "mid": "1000132134",
             "match": "가까웠던 동료와 멀어져야 합니다.",
             "value": "You must get away from your teammates"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1000132127",
+            "match": "저주의 시련",
+            "value": "Trial of Curse"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1000132133",
+            "match": "저주로 인해 회복이 불가능해집니다.",
+            "value": "You will be unable to heal"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1000132126",
+            "match": "결빙의 시련",
+            "value": "Trial of Freezing"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1000132132",
+            "match": "냉기로 인해 몸이 순식간에 얼어 붙습니다.",
+            "value": "You will be frozen"
         }
     ]
 }

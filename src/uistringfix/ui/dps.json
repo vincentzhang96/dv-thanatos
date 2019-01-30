@@ -50,6 +50,18 @@
             "mid": "1018167",
             "match": "[캡틴 드루크]",
             "value": "[Captain Drook]"
+        },
+        {
+            "#comment": "",
+            "mid": "1018175",
+            "match": "[초자력 프로페서K]",
+            "value": "[Supermagnetic Professor K]"
+        },
+        {
+            "#comment": "",
+            "mid": "1018169",
+            "match": "[더티클로]",
+            "value": "[Dirty Claw]"
         }
     ],
     "#old": [

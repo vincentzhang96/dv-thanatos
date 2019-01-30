@@ -50,6 +50,60 @@
             "mid": "1018896",
             "match": "다른 파티원을 기다리는 중입니다...",
             "value": "Waiting for another party member..."
+        },
+        {
+            "#comment": "Timed buffs tooltip",
+            "mid": "140495",
+            "match": "#y[간편 알림]",
+            "value": "#y[Quick Reminder]"
+        },
+        {
+            "#comment": "Timed buffs tooltip",
+            "mid": "140496",
+            "match": "캐릭터가 사용중인 일부 기간제 기능의 사용 중 상태를 안내합니다.",
+            "value": "Information about various timed bonus features your character may have"
+        },
+        {
+            "#comment": "Timed buffs expired",
+            "mid": "140503",
+            "match": " 비활성",
+            "value": "Expired"
+        },
+        {
+            "#comment": "Wellspring",
+            "mid": "140497",
+            "match": "\n[근원] ",
+            "value": "\n[Wellspring] "
+        },
+        {
+            "#comment": "Pet",
+            "mid": "140498",
+            "match": "[펫] ",
+            "value": "[Ally] "
+        },
+        {
+            "#comment": "Expires",
+            "mid": "140502",
+            "match": " 종료일 : %s",
+            "value": "Expires at %s"
+        },
+        {
+            "#comment": "Crests",
+            "mid": "140500",
+            "match": "[잠재된 문장 슬롯] ",
+            "value": "[Crest Expansion] "
+        },
+        {
+            "#comment": "Skill Up Crest",
+            "mid": "140499",
+            "match": "[스킬 레벨업 문장] ",
+            "value": "[Skill-Up Crest] "
+        },
+        {
+            "#comment": "Skill Up Crest",
+            "mid": "140501",
+            "match": "[잠재된 탈리스만 슬롯] ",
+            "value": "[Talisman Expansion] "
         }
     ],
     "#old": [
