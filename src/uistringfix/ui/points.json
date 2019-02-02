@@ -38,6 +38,12 @@
             "mid": "1000121650",
             "match": "1000121650",
             "value": "Points you can earn by playing the seasonal [Saint Haven Defense].\\n\\n#b[Usage Location]\\n#yAdventurer's Guild Master Gunther (Seasonal Points Store)"
+        },
+        {
+            "#comment": "Cant hold that many points",
+            "mid": "1000113524",
+            "match": "1000113524",
+            "value": "You have reached the maximum limit for [%s]."
         }
     ],
     "#old": [
