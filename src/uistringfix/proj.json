@@ -12,6 +12,7 @@
     "includePrefix": "src/uistringfix/",
     "include": [
         "classes/proj.json",
+        "dv/proj.json",
         "events/proj.json",
         "items/proj.json",
         "nests/proj.json",

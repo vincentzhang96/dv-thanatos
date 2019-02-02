@@ -11,6 +11,7 @@
     ],
     "includePrefix": "src/uistringfix/dv/",
     "include": [
-        "dv-prefix.json"
+        "dv-prefix.json",
+        "dv-fdn-ex.json"
     ]
 }

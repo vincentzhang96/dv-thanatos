@@ -1,0 +1,24 @@
+{
+    "add": {
+        "710000": "==== Divinitor ====",
+
+        "715000": "-- FDN EX --",
+        "715001": "BLUE GREEN RED",
+        "715002": "BLUE RED GREEN",
+        "715003": "RED BLUE GREEN",
+        "715004": "RED GREEN BLUE",
+        "715005": "GREEN BLUE RED",
+        "715006": "GREEN RED BLUE",
+        "715010": "MUSHROOMS ARE SPAWNING",
+        "715011": "TORTREE IS SPAWNING",
+        "715012": "GO!!!"
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        }
+    ]
+}
