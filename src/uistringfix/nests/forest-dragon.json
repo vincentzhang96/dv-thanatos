@@ -25,6 +25,12 @@
             "mid": "1000125874",
             "match": "",
             "value": "Vines"
+        },
+        {
+            "#comment": "Initial text",
+            "mid": "1019691",
+            "match": "숲 속의 신비로운 마력이 우리 몸을 감싸줍니다.",
+            "value": "Magical energy from the forest envelops your body."
         }
     ],
     "#old": [
