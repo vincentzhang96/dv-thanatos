@@ -121,6 +121,12 @@
             "mid": "1000132132",
             "match": "냉기로 인해 몸이 순식간에 얼어 붙습니다.",
             "value": "You will be frozen"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1012469",
+            "match": "1012469",
+            "value": "Trial of Silence"
         }
     ]
 }
