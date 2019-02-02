@@ -20,6 +20,24 @@
             "mid": "1000127652",
             "match": "냉기의 힘을 빌려 얼음칼날과 같은 회오리를 소환한다. #y[동상]#w 스킬로 타격 시 #y[냉기결정]#w 흭득이 가능해지고, 회오리는 #y[냉기결정]#w을 소비하여 시전할 수 있다. #y[일반 공격]#w 버튼으로 연속으로 사용할 수 있다.\n#y[냉기결정] : {0}포인트 소모\n#y타격 당 공격력 {1}%",
             "value": "With ice energy, a Tornado of ice blades is summoned. You can get #y[Ice Crystal]#w when you hit enemies with #y[Frostbite]#w skill and Tornado can be used by spending #y[Ice Crystal]#w. It can be used continuously by entering #y[Normal Attack Button]#w.\\n#y[Ice Crystal] : {0} Points are used\\n#yATK per hit {1}%"
+        },
+        {
+            "#comment": "Ice barrier desc 1",
+            "mid": "1000132153",
+            "match": "얼음 방어막으로 자신을 보호한다. 얼음 방어막의 내구도가 0이 되거나 지속 시간이 모두 지나면 보호막이 제거된다.\\n#y보호막 내구도는 체력의 {0}%\\n#y지속시간 {1}초",
+            "value": "Casts an ice shield to protect oneself. The ice shield disappears when durability of the ice shield becomes 0 or when time is up.\\n#yShield durability: {0}% of HP\\n#yDuration: {1} sec"
+        },
+        {
+            "#comment": "Ice barrier desc 2",
+            "mid": "1000130720",
+            "match": "얼음 방어막으로 자신을 보호한다. 얼음 방어막의 내구도가 0이 되거나 지속 시간이 모두 지나면 보호막이 제거된다.\\n#y보호막 내구도 공격력의 {0}%\\n#y지속시간 {1}초",
+            "value": "Casts an ice shield to protect oneself. The ice shield disappears when durability of the ice shield becomes 0 or when time is up.\\n#yShield durability: {0}% of ATK\\n#yDuration: {1} sec"
+        },
+        {
+            "#comment": "Ice barrier EX desc 1",
+            "mid": "1000132154",
+            "match": "아이스 배리어가 부여될 때 {0}초 동안 물 속성 공격력이 {1}% 증가하고, #y[프리징 소드][프리징 필드][프리징 스파이크][칠링 미스트][블리자드 스톰]#w의 재사용 대기시간 회복 속도가 {2}% 향상된다.",
+            "value": "When Ice Barrier is applied, Water Attribute ATK increases for {0} seconds by {1}% and cooldown recovery rate of #y[Icy Shards], [Ice Cold Field], [Frozen Spikes], [Chilling Mist], and [Blizzard Storm]#w increases by {2}%."
         }
     ]
 }
