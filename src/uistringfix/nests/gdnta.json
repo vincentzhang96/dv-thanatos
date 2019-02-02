@@ -1,0 +1,50 @@
+{
+    "add": {
+    },
+    "edit": [
+        {
+            "#comment": "Template",
+            "mid": "1000000000",
+            "match": "",
+            "value": ""
+        },
+        {
+            "#comment": "Krakas",
+            "mid": "1000368",
+            "match": "",
+            "value": "Maybe the barrier can be broken if all the party members are gathered within the pillar of light"
+        },
+        {
+            "#comment": "Krakas",
+            "mid": "1000369",
+            "match": "",
+            "value": "\"Hah! Weaklings can't stop me!\""
+        },
+        {
+            "#comment": "DPS bar",
+            "mid": "1000373",
+            "match": "",
+            "value": "Green Dragon's poison is getting stronger!"
+        },
+        {
+            "#comment": "DPS bar",
+            "mid": "1000374",
+            "match": "",
+            "value": "Green Dragon's rage is going to engulf the area"
+        },
+        {
+            "#comment": "DPS bar",
+            "mid": "1000375",
+            "match": "",
+            "value": "Green Dragon's rage has subsided"
+        },
+        {
+            "#comment": "DPS bar",
+            "mid": "1000376",
+            "match": "",
+            "value": "Green Dragon's rage engulfs the swamp"
+        }
+    ],
+    "#old": [
+    ]
+}
