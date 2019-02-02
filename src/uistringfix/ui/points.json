@@ -44,6 +44,18 @@
             "mid": "1000113524",
             "match": "1000113524",
             "value": "You have reached the maximum limit for [%s]."
+        },
+        {
+            "#comment": "Lebrium Point Tooltip",
+            "mid": "1000136859",
+            "match": "All Attack power increases 50%!",
+            "value": "A metal with unique sheen that can be found in Labyrinth. It is very much coveted by the blacksmiths.\\n#j[This point is shared by all characters in the server.]\\n#yYou can store up to 100,000 points.\\n\\n#b[Usage]\\n#y[Saint Haven] -> [Blacksmith]\\nInterdimensional Chat 6s Plus (Lebria Store)"
+        },
+        {
+            "#comment": "Community Point Tooltip",
+            "mid": "1000136858",
+            "match": "Your body becomes heavy overall. ",
+            "value": "Point you can get by doing various Community activites. \\nYou can store up to 50,000 points.\\n#j[This point is shared by all characters in the server.]\\n\\n#b[Usage]\\n#yCrest Scholar Stashy (Community Point Store)"
         }
     ],
     "#old": [
