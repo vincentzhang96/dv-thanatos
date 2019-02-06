@@ -56,6 +56,12 @@
             "mid": "1000136858",
             "match": "Your body becomes heavy overall. ",
             "value": "Point you can get by doing various Community activites. \\nYou can store up to 50,000 points.\\n#j[This point is shared by all characters in the server.]\\n\\n#b[Usage]\\n#yCrest Scholar Stashy (Community Point Store)"
+        },
+        {
+            "#comment": "Crystal Point Tooltip",
+            "mid": "1000136857",
+            "match": "Server Share Point",
+            "value": "Special Point you can get by doing Daily Missions or purchasing items at the Cash Shop.\\n#j[This point is shared by all characters in the server.]\\n\\n#b[Usage]\\n#ySaint Haven Trading House -> Crystal Storekeeper Cherry (Crystal Point Store)"
         }
     ],
     "#old": [
