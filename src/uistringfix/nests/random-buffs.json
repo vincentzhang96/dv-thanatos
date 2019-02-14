@@ -39,12 +39,6 @@
             "value": "Your body becomes increasingly heavy"
         },
         {
-            "#comment": "Buff 140414",
-            "mid": "1000129873",
-            "match": "달빛의 힘으로 모든 공격력과 방어력이 100% 상승 합니다!",
-            "value": "The moonlight grants +100% damage and defense!"
-        },
-        {
             "#comment": "Buff 139783",
             "mid": "1012470",
             "match": "1012470",
@@ -75,10 +69,18 @@
             "value": "Trial of Debilitation"
         },
         {
+            "#comment": "Trial desc",
+            "mid": "1012469",
+            "match": "1012469",
+            "value": "Trial of Silence"
+        }
+    ],
+    "#old": [
+        {
             "#comment": "Trial title",
-            "mid": "1000132129",
-            "match": "낙뢰의 시련",
-            "value": "Trial of Lightning"
+            "mid": "1000132128",
+            "match": "불씨의 시련",
+            "value": "Trial of Embers"
         },
         {
             "#comment": "Trial desc",
@@ -88,21 +90,9 @@
         },
         {
             "#comment": "Trial title",
-            "mid": "1000132128",
-            "match": "불씨의 시련",
-            "value": "Trial of Embers"
-        },
-        {
-            "#comment": "Trial desc",
-            "mid": "1000132134",
-            "match": "가까웠던 동료와 멀어져야 합니다.",
-            "value": "You must get away from your teammates"
-        },
-        {
-            "#comment": "Trial desc",
-            "mid": "1000132127",
-            "match": "저주의 시련",
-            "value": "Trial of Curse"
+            "mid": "1000132129",
+            "match": "낙뢰의 시련",
+            "value": "Trial of Lightning"
         },
         {
             "#comment": "Trial desc",
@@ -124,9 +114,21 @@
         },
         {
             "#comment": "Trial desc",
-            "mid": "1012469",
-            "match": "1012469",
-            "value": "Trial of Silence"
+            "mid": "1000132134",
+            "match": "가까웠던 동료와 멀어져야 합니다.",
+            "value": "You must get away from your teammates"
+        },
+        {
+            "#comment": "Trial desc",
+            "mid": "1000132127",
+            "match": "저주의 시련",
+            "value": "Trial of Curse"
+        },
+        {
+            "#comment": "Buff 140414",
+            "mid": "1000129873",
+            "match": "달빛의 힘으로 모든 공격력과 방어력이 100% 상승 합니다!",
+            "value": "The moonlight grants +100% damage and defense!"
         }
     ]
 }

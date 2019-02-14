@@ -13,13 +13,9 @@
             "mid": "1000122275",
             "match": "1000122275",
             "value": "Set effect is applied for Vernon weapons and accessories.\\n#yYou can transform and use special skills when you have the entire set of Vernon Wings, Tail, Decal, Necklace, and two weapons."
-        },
-        {
-            "#comment": "Vernon Necklace",
-            "mid": "1000122270",
-            "match": "1000122270",
-            "value": "Iridescence Twilight Vernon Necklace"
-        },
+        }
+    ],
+    "#old": [
         {
             "#comment": "Vernon Wings",
             "mid": "1000122267",
@@ -37,6 +33,12 @@
             "mid": "1000122269",
             "match": "1000122269",
             "value": "Iridescence Twilight Vernon Decal"
+        },
+        {
+            "#comment": "Vernon Necklace",
+            "mid": "1000122270",
+            "match": "1000122270",
+            "value": "Iridescence Twilight Vernon Necklace"
         }
     ]
 }

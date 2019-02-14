@@ -3,12 +3,6 @@
     "add": {
     },
     "edit": [
-        {
-            "#comment": "Fission Maze Mission",
-            "mid": "1000137683",
-            "match": "미로의 경계선",
-            "value": "Maze Perimeter"
-        }
     ],
     "#old": [
         {
@@ -16,6 +10,12 @@
             "mid": "1000127390",
             "match": "",
             "value": "Clear {0} (any difficulty) {1} times"
+        },
+        {
+            "#comment": "Fission Maze Mission",
+            "mid": "1000137683",
+            "match": "미로의 경계선",
+            "value": "Maze Perimeter"
         }
     ]
 }

@@ -25,12 +25,6 @@
             "mid": "1000125874",
             "match": "",
             "value": "Vines"
-        },
-        {
-            "#comment": "Initial text",
-            "mid": "1019691",
-            "match": "숲 속의 신비로운 마력이 우리 몸을 감싸줍니다.",
-            "value": "Magical energy from the forest envelops your body."
         }
     ],
     "#old": [
@@ -51,6 +45,12 @@
             "mid": "1019772",
             "match": "my love will remain unchanged even if it sinks to the bottom of the deep blue lake",
             "value": "Even sunken at the bottom of the deep blue lake, my love remains unchanged"
+        },
+        {
+            "#comment": "Initial text",
+            "mid": "1019691",
+            "match": "숲 속의 신비로운 마력이 우리 몸을 감싸줍니다.",
+            "value": "Magical energy from the forest envelops your body."
         }
     ]
 }

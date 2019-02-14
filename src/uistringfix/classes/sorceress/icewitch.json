@@ -10,12 +10,6 @@
             "value": "#y[Glacial Spike]#w's damage and cooldown time are increased and is changed to fall onto the groun.\\n\\nAfter using #y[Glacial Spike]#w, use #y[Icy Shards EX]#w by entering #y[Normal Attack Button]#w and actions will be simplified and increase the damage of the second and third #y[Icy Shards EX]#w that is used after full cooldown.\\n\\n#y[Glacial Spike]'s ATK increases by {0}\\n[Glacial Spike]'s cooldown is changed to {1} sec\\nSecond consecutive [Frozen Spikes EX]'s damage increases by {2}%\\nThird consecutive [Frozen Spikes EX]'s damage increases by {3}%\\n\\nNot applicable in PVP"
         },
         {
-            "#comment": "Glacial Field Desc",
-            "mid": "1000130721",
-            "match": "자신 주위를 얼려서 빙결 지대를 생성한다. 빙결 지대에있는 적은 지속적인 피해를 입으며 일정 확률로 #y[빙결]#w 상태가된다.\\n#y타격 당 공격력 {0}%\\n#y[빙결] 확률 {1}%\\n지속시간 {2}초",
-            "value": "Nearby area is frozen to create a Frozen Area. Enemies in Frozen Area will get continuous damage and will become #y[Frozen]#w at a certain rate.\\n#yDamage per attacks {0}%\\n#y[Frozen] rate {1}%\\nDuration {2} sec"
-        },
-        {
             "#comment": "Ice Cyclone Desc",
             "mid": "1000127652",
             "match": "냉기의 힘을 빌려 얼음칼날과 같은 회오리를 소환한다. #y[동상]#w 스킬로 타격 시 #y[냉기결정]#w 흭득이 가능해지고, 회오리는 #y[냉기결정]#w을 소비하여 시전할 수 있다. #y[일반 공격]#w 버튼으로 연속으로 사용할 수 있다.\n#y[냉기결정] : {0}포인트 소모\n#y타격 당 공격력 {1}%",
@@ -32,6 +26,14 @@
             "mid": "1000130720",
             "match": "얼음 방어막으로 자신을 보호한다. 얼음 방어막의 내구도가 0이 되거나 지속 시간이 모두 지나면 보호막이 제거된다.\\n#y보호막 내구도 공격력의 {0}%\\n#y지속시간 {1}초",
             "value": "Casts an ice shield to protect oneself. The ice shield disappears when durability of the ice shield becomes 0 or when time is up.\\n#yShield durability: {0}% of ATK\\n#yDuration: {1} sec"
+        }
+    ],
+    "#old": [
+        {
+            "#comment": "Glacial Field Desc",
+            "mid": "1000130721",
+            "match": "자신 주위를 얼려서 빙결 지대를 생성한다. 빙결 지대에있는 적은 지속적인 피해를 입으며 일정 확률로 #y[빙결]#w 상태가된다.\\n#y타격 당 공격력 {0}%\\n#y[빙결] 확률 {1}%\\n지속시간 {2}초",
+            "value": "Nearby area is frozen to create a Frozen Area. Enemies in Frozen Area will get continuous damage and will become #y[Frozen]#w at a certain rate.\\n#yDamage per attacks {0}%\\n#y[Frozen] rate {1}%\\nDuration {2} sec"
         },
         {
             "#comment": "Ice barrier EX desc 1",
