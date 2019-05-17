@@ -7,18 +7,6 @@
             "mid": "1000000000",
             "match": "",
             "value": ""
-        },
-        {
-            "#comment": "Ranking",
-            "mid": "140452",
-            "match": "140452",
-            "value": "Ranking will be refreshed every morning from 07:00AM to 09:00AM."
-        },
-        {
-            "#comment": "Ranking error",
-            "mid": "140490",
-            "match": "순위를 산정 중입니다.\n잠시 후 다시 시도해주세요.",
-            "value": "Rankings are being tabulated.\nPlease try again in a few minutes."
         }
     ]
 }

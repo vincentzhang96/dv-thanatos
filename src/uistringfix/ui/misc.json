@@ -12,7 +12,7 @@
         {
             "#comment": "Guild logoff",
             "mid": "1426",
-            "match": "1426",
+            "match": "",
             "value": "Guildie %s logged out"
         },
         {
@@ -36,19 +36,19 @@
         {
             "#comment": "Waiting for party members",
             "mid": "1018894",
-            "match": "다른 파티원을 기다리는 중입니다.",
+            "match": "",
             "value": "Waiting for another party member."
         },
         {
             "#comment": "Waiting for party members",
             "mid": "1018895",
-            "match": "다른 파티원을 기다리는 중입니다..",
+            "match": "",
             "value": "Waiting for another party member.."
         },
         {
             "#comment": "Waiting for party members",
             "mid": "1018896",
-            "match": "다른 파티원을 기다리는 중입니다...",
+            "match": "",
             "value": "Waiting for another party member..."
         },
         {
@@ -56,12 +56,6 @@
             "mid": "140503",
             "match": " Off",
             "value": "Expired"
-        },
-        {
-            "#comment": "Pet",
-            "mid": "140498",
-            "match": "[펫] ",
-            "value": "[Ally] "
         }
     ],
     "#old": [

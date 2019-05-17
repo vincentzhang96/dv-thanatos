@@ -17,62 +17,50 @@
         {
             "#comment": "Buff 139777",
             "mid": "1012461",
-            "match": "1012461",
+            "match": "",
             "value": "You will be electrocuted"
         },
         {
             "#comment": "",
             "mid": "1012463",
-            "match": "1012463",
+            "match": "",
             "value": "Trial of Plagues"
         },
         {
             "#comment": "Buff 139813",
             "mid": "1012464",
-            "match": "1012464",
+            "match": "",
             "value": "You will be afflicted with the plague"
         },
         {
             "#comment": "Buff 139812",
             "mid": "1012466",
-            "match": "1012466",
+            "match": "",
             "value": "Your body becomes increasingly heavy"
         },
         {
             "#comment": "Buff 139783",
             "mid": "1012470",
-            "match": "1012470",
+            "match": "",
             "value": "You will be silenced"
         },
         {
             "#comment": "",
             "mid": "1012467",
-            "match": "1012467",
+            "match": "",
             "value": "Trial of Confusion"
         },
         {
             "#comment": "Buff 139781",
             "mid": "1012468",
-            "match": "1012468",
+            "match": "",
             "value": "Your will be confused"
         },
         {
             "#comment": "Buff 139778",
             "mid": "1012462",
-            "match": "1012462",
+            "match": "",
             "value": "You will be blinded"
-        },
-        {
-            "#comment": "",
-            "mid": "1012465",
-            "match": "1012465",
-            "value": "Trial of Debilitation"
-        },
-        {
-            "#comment": "Trial desc",
-            "mid": "1012469",
-            "match": "1012469",
-            "value": "Trial of Silence"
         }
     ],
     "#old": [

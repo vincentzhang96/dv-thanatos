@@ -5,62 +5,20 @@
     "edit": [
         {
             "#comment": "",
-            "mid": "1018164",
-            "match": "[라비나]",
-            "value": "[Labina]"
-        },
-        {
-            "#comment": "",
             "mid": "1018177",
-            "match": "[라바]",
+            "match": "[Lava]",
             "value": "[Magmaaaa]"
         },
         {
             "#comment": "",
-            "mid": "1018172",
-            "match": "[프로토 오메가]",
-            "value": "[Proto Omega]"
-        },
-        {
-            "#comment": "",
-            "mid": "1018179",
-            "match": "[몬탄]",
-            "value": "[Montan]"
-        },
-        {
-            "#comment": "",
             "mid": "1018159",
-            "match": "[펠 가디언]",
+            "match": "[Fallen Guardian]",
             "value": "[Fell Guardian]"
         },
         {
             "#comment": "",
-            "mid": "1018165",
-            "match": "[구스토스]",
-            "value": "[Gustos]"
-        },
-        {
-            "#comment": "",
-            "mid": "1018154",
-            "match": "[라바노크]",
-            "value": "[Lavanok]"
-        },
-        {
-            "#comment": "",
-            "mid": "1018167",
-            "match": "[캡틴 드루크]",
-            "value": "[Captain Drook]"
-        },
-        {
-            "#comment": "",
-            "mid": "1018175",
-            "match": "[초자력 프로페서K]",
-            "value": "[Supermagnetic Professor K]"
-        },
-        {
-            "#comment": "",
             "mid": "1018169",
-            "match": "[더티클로]",
+            "match": "",
             "value": "[Dirty Claw]"
         }
     ],

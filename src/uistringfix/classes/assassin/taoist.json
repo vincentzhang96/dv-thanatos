@@ -3,17 +3,5 @@
     "add": {
     },
     "edit": [
-        {
-            "#comment": "Healing Chakra Desc",
-            "mid": "1000125925",
-            "match": "1000125925",
-            "value": "#wConcentrates to summon a clone that gives Chakra to oneself and nearby party members. \\n#yRecovers HP by {0}% for each Chakra ({1} in total)\\n#yRange : {2}m"
-        },
-        {
-            "#comment": "Chakra Ring Desc",
-            "mid": "1000125807",
-            "match": "1000125807",
-            "value": "#wCreates a Chakra ring that increases movement speed.\\n#yMovement speed increases by {0}% \\nLasts for {1} sec"
-        }
     ]
 }

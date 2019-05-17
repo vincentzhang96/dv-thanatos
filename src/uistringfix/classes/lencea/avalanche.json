@@ -3,18 +3,6 @@
     },
     "#comment": "Thanks to AdonFTW for these fixes",
     "edit": [
-        {
-            "#comment": "Awk Brandish Desc",
-            "mid": "1000129769",
-            "match": "#y[각성 스킬]#w로 강화되었다.\\n랜스를 왼쪽에서 오른쪽으로 휘두르며 적을 밀쳐낸다.\\n#y공격력 {0}%\\n\\n대상 받는 피해 증가 {1}%\\n지속시간 {2}초",
-            "value": "Enhanced as #y[Awakened Skill]#w.\\nSwings the lance from left to right and pushes enemies away.\\n#y{0}% ATK\\n\\nTarget's received damage increases by {1}%\\nLasts for {2} sec"
-        },
-        {
-            "#comment": "Damage Resistance Desc",
-            "mid": "1000129764",
-            "match": "1000129764",
-            "value": "Gains the ability to heal own wounds in battle. HP is recovered immediately when hit.\\n\\n#yRecovers HP by {0}% of Max HP\\nActivation rate: {1}%"
-        }
     ],
     "#old": [
         {

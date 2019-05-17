@@ -6,38 +6,26 @@
         {
             "#comment": "Crystal Dragon Legendary Mission",
             "mid": "1000128440",
-            "match": "울부짖는 투명드래곤 처치",
+            "match": "",
             "value": "Defeat Howling Crystal Dragon (Crest)"
         },
         {
             "#comment": "Infinity Stones Legendary Mission",
             "mid": "1000128960",
-            "match": "여섯 개의 무한의 돌 수집",
+            "match": "",
             "value": "Collect the Six Infinity Stones (Gem)"
         },
         {
             "#comment": "Merc explo gold warning",
             "mid": "230",
-            "match": "230",
+            "match": "",
             "value": "A large amount of gold is required to send this Hero.\nAre you sure you want to proceed?"
         },
         {
-            "#comment": "Santa Orc",
-            "mid": "1000123032",
-            "match": "1000123032",
-            "value": "Santa Orc"
-        },
-        {
             "#comment": "Merc cancel confirm",
-            "match": "임무를 취소하면 임무 진행 시간이 초기화되며, 임무 리스트에 다시 등록됩니다.\n진행 중인 임무를 취소하시겠습니까?",
+            "match": "",
             "mid": "140489",
             "value": "When you cancel a mission, the timer is reset and the mission is returned to the mission list.\nAre you sure you want to cancel this mission?"
-        },
-        {
-            "#comment": "Merc explo info",
-            "mid": "140488",
-            "match": "진행 중인 임무를 클릭하면 해당 임무를 취소할 수 있습니다.\n완료된 임무를 클릭하거나 [모두완료] 버튼을 누르면 임무 성공 여부를 확인할 수 있습니다.\n임무 실패 시 보상 아이템을 획득할 수 없습니다.",
-            "value": "Click a mission in progress to cancel it.\nYou can check if a completed mission was successful by clicking on it or pressing the [Complete All] button.\nIf a mission is failed, no rewards are given."
         }
     ],
     "#old": [

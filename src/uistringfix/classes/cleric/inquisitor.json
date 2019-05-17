@@ -3,11 +3,5 @@
     "add": {
     },
     "edit": [
-        {
-            "#comment": "Lightning Storm Desc",
-            "mid": "1000125588",
-            "match": "1000125588",
-            "value": "#yLight Attack\\n#wShoot lightning into the heavens to summon a powerful lightning storm. The storm continuously creates lightning, dealing damage and #y[Electrocutes]#w enemies.\\n#yDamage per hit {0}%\\n{1}% chance to Electrocute\\nDuration {2}s"
-        }
     ]
 }

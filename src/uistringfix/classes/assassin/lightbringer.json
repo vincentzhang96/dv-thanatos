@@ -3,17 +3,5 @@
     "add": {
     },
     "edit": [
-        {
-            "#comment": "Energetic Chakra EX Desc",
-            "mid": "1000125924",
-            "match": "1000125924",
-            "value": "Recovers additional HP by a percentage of the skill user's Physical Damage. Skill user's movement speed is also increased.\\n#yRecovers additional HP every {0} sec by {1}% of ATK\\nLasts for {2} sec\\nOwn movement speed increases by {3}%\\nLasts for {4} sec\\nCooldown time reduced by {5} sec"
-        },
-        {
-            "#comment": "Chakra Grip Desc",
-            "mid": "1000125822",
-            "match": "1000125822",
-            "value": "Collects Chakra in both hands and releases it at enemies in front. Distance travelled becomes shorter when the skill is used while moving backwards.\\n\\n#y{0}% ATK"
-        }
     ]
 }

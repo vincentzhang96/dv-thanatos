@@ -6,13 +6,13 @@
         {
             "#comment": "Immortality name",
             "mid": "1000125892",
-            "match": "1000125892",
+            "match": "",
             "value": "Immortality"
         },
         {
             "#comment": "Immortality desc",
             "mid": "1000125893",
-            "match": "1000125893",
+            "match": "",
             "value": "Bless nearby allies, protecting them from death for a short duration.\\n\\n#yGrants [Immortal] status if HP falls below {1} within {0} sec of being blessed.\\nHP cannot drop below {2} while [Immortal]\\n[Immortal] lasts 5 seconds"
         }
     ],

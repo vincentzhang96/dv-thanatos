@@ -6,19 +6,13 @@
         {
             "#comment": "Divine Judgement desc",
             "mid": "1000125921",
-            "match": "1000124993",
+            "match": "",
             "value": "Concentrate holy power in front of you and explode it\\n\\n#yDamage {0}%"
-        },
-        {
-            "#comment": "Divine Ascension desc",
-            "mid": "1000124993",
-            "match": "1000124993",
-            "value": "Upon successfully blocking, use the #y[Normal Attack Button]#w to counter-attack using your shield.\\n#yDamage {0}%\\nGenerates threat"
         },
         {
             "#comment": "Awk Pass Armor Break Desc",
             "mid": "1000125801",
-            "match": "1000125801",
+            "match": "",
             "value": "Skill becomes #y[Light Elemental]#w and damage is increased. Enter #y[Normal Attack Button]#w during the attack to launch an additional forward attack. Defense reduction debuff duration increased.\\n#yDamage +{0}%\\nAdditional attack {1}% of first attack\\nDebuff duration {2} sec"
         }
     ]
