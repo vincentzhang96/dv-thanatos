@@ -2,7 +2,7 @@
   "id": "dv-thanatos",
   "name": "Divinitor Thanatos",
   "description": "Community maintained fixes for DN",
-  "version": "0.792.0-NIGHTLY",
+  "version": "0.802.0-NIGHTLY",
   "author": "Vahr",
   "contributors": [
     "AdonFTW",
@@ -29,6 +29,6 @@
     "majorVersion": 1,
     "minorVersion": 0,
     "serial": 16,
-    "gameVersion": 792
+    "gameVersion": 802
   }
 }
